@@ -45,7 +45,6 @@ def make_rag_system(cfg, logger):
     else:
         if cfg.evidence.summarize:
             cfg.rag_setup.filter_evidence = cfg.evidence.llm_filter
-            cfg.rag_setup.batch_evidence = cfg.evidence.batch
             RAGClass = rag.SummarizingClosedRAG
         else:
             RAGClass = rag.LongSummaryClosedRAG
@@ -53,30 +52,23 @@ def make_rag_system(cfg, logger):
     return rag_sys
 
 class Dataset:
-    def __init__(self, dataset_name, filter_sources=False, skip_ids=[]):
+    def __init__(self, dataset_name, skip_ids=[]):
         with open(f'datasets/{dataset_name}.jsonl', 'r') as fh:
-            self.systematic_reviews = [json.loads(line) for line in fh]
-        self.filter_sources = filter_sources
-        self.dataset_len = sum([len(review['question_data'])
-                                for review in self.systematic_reviews])
+            self.questions = [json.loads(line) for line in fh]
+        self.dataset_len = len(self.questions)
         self.skip_ids = set(skip_ids)
     
     def __len__(self):
         return self.dataset_len - len(self.skip_ids)
     
     def _iterate_questions(self):
-        for review in self.systematic_reviews:
-            qa_data = review['question_data']
-            sources = review['sources']
-            source_map = {src['article_id']: src for src in sources}
-            for qa in qa_data:
-                if qa['question_id'] in self.skip_ids:
-                    continue
-                question_sources = sources
-                if self.filter_sources:
-                    question_sources = [source_map[pmid] for pmid in qa['relevant_sources']]
-                yield review['original_review'], qa, question_sources
-    
+        for qa in self.questions:
+            if qa['question_id']  in self.skip_ids:
+                continue
+            question_sources = list(qa.pop('sources').values())
+            review_pmid = qa.pop('original_review')
+            yield review_pmid, qa, question_sources
+
     def __iter__(self):
         return self._iterate_questions()
 
@@ -143,8 +135,7 @@ def launch(config_path, mode='append', parallel_size=0):
     
     if len(skip_ids) == 0:
         logger.info(f"FULL CONFIG:\n{json.dumps(cfg, indent=2)}")
-    dataset = Dataset(cfg.dataset_name, filter_sources=cfg.evidence.manual_filter, 
-                      skip_ids=skip_ids)
+    dataset = Dataset(cfg.dataset_name, skip_ids=skip_ids)
     rag_setup = (cfg, None if is_parallel else logger)
     if is_parallel:
         def init_thread():

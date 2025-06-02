@@ -45,7 +45,6 @@ def make_rag_system(cfg, logger):
     else:
         if cfg.evidence.summarize:
             cfg.rag_setup.filter_evidence = cfg.evidence.llm_filter
-            cfg.rag_setup.batch_evidence = cfg.evidence.batch
             RAGClass = rag.SummarizingClosedRAG
         else:
             RAGClass = rag.SimpleClosedRAG
@@ -121,15 +120,12 @@ def answer_question(question_data, rag_system=None, logger=None):
 def launch(mode='overwrite', parallel_size=0):
     config = {
         "shorthand_name": "deepseekV3_SLA",
-        "dataset_name": "manual_284-fulltext",
+        "dataset_name": "med-evidence-fulltext",
         "model_type": "deepseekV3",
         "prompt_set": "source_level_agreement",
         "evidence": {
-            "retrieve": False,
             "summarize": False,
-            "manual_filter": False,
             "llm_filter": False,
-            "batch": False
         },
         "rag_setup": {
             "prompt_buffer_size": 1000

@@ -1,0 +1,3376 @@
+{
+  "28660687": [
+    {
+      "question_id": 0,
+      "question": "Is the long-term rate of overall lymphocyst formation higher, lower, or the same when comparing retroperitoneal drainage to no drainage?",
+      "answer": "no difference",
+      "evidence_certainty": "high",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "17466514"
+      ]
+    },
+    {
+      "question_id": 1,
+      "question": "Is the short-term rate of overall lymphocyst formation higher, lower, or the same when comparing retroperitoneal drainage to no drainage?",
+      "answer": "no difference",
+      "evidence_certainty": "moderate",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "9190979",
+        "12214830"
+      ]
+    }
+  ],
+  "25734590": [
+    {
+      "question_id": 2,
+      "question": "Is the rate of clinician impression of cognitive change higher, lower, or the same when comparing cholinase inhibitors to placebo in patients with MS?",
+      "answer": "higher",
+      "evidence_certainty": "high",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "15534239",
+        "21519001"
+      ]
+    },
+    {
+      "question_id": 3,
+      "question": "Is the rate of patient self-reported impression of memory change higher, lower, or the same when comparing cholinase inhibitors to placebo in patients with MS?",
+      "answer": "uncertain effect",
+      "evidence_certainty": "high",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "15534239",
+        "21519001"
+      ]
+    }
+  ],
+  "27056645": [
+    {
+      "question_id": 4,
+      "question": "Is the number of people with at least one neoplastic lesion detected higher, lower, or the same when comparing chromoscopy to conventional endoscopy?",
+      "answer": "higher",
+      "evidence_certainty": "",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "12196768",
+        "16527699",
+        "21159889",
+        "16767577"
+      ]
+    },
+    {
+      "question_id": 5,
+      "question": "Is total polyp detection higher, lower, or the same when comparing chromoscopy to conventional endoscopy?",
+      "answer": "higher",
+      "evidence_certainty": "",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "12196768",
+        "14960519",
+        "20179689",
+        "16527699",
+        "21159889",
+        "16767577",
+        "19139000"
+      ]
+    },
+    {
+      "question_id": 219,
+      "question": "Is the risk of adverse events higher, lower, or the same when comparing chromoscopy to conventional endoscopy?",
+      "answer": "insufficient data",
+      "evidence_certainty": "",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "12196768",
+        "14960519",
+        "20179689",
+        "16527699",
+        "21159889",
+        "16767577",
+        "19139000"
+      ]
+    }
+  ],
+  "26346232": [
+    {
+      "question_id": 6,
+      "question": "Is stroke prevention higher, lower, or the same when comparing Transcatheter Device Closure (TDC) to medical therapy?",
+      "answer": "no difference",
+      "evidence_certainty": "",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "22417252",
+        "23514285",
+        "23514286"
+      ]
+    },
+    {
+      "question_id": 7,
+      "question": "Is the composite endpoint of recurrent stroke or TIA higher, lower, or the same when comparing Transcatheter Device Closure (TDC) to medical therapy?",
+      "answer": "no difference",
+      "evidence_certainty": "",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "22417252",
+        "23514285"
+      ]
+    }
+  ],
+  "28898386": [
+    {
+      "question_id": 8,
+      "question": "Is the length of hospital stay higher, lower, or the same when comparing Pancreatojejunostomy (PJ) to Pancreatogastrostomy (PG)?",
+      "answer": "no difference",
+      "evidence_certainty": "low",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "16327486",
+        "19092337",
+        "7574936"
+      ]
+    },
+    {
+      "question_id": 9,
+      "question": "Is the overall risk of postoperative pancreatic fistula higher, lower, or the same when comparing Pancreatojejunostomy (PJ) to Pancreatogastrostomy (PG)?",
+      "answer": "no difference",
+      "evidence_certainty": "low",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "24467711",
+        "16327486",
+        "15910726",
+        "19092337",
+        "24264781",
+        "25799130",
+        "26135690",
+        "23643139",
+        "7574936"
+      ]
+    }
+  ],
+  "36999589": [
+    {
+      "question_id": 10,
+      "question": "Is the breast cancer detection rate in women with dense breasts higher, lower, or the same when comparing screening with a combination of mammography and ultrasonography to screening with mammography alone?",
+      "answer": "higher",
+      "evidence_certainty": "high",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "34406400",
+        "29571797",
+        "23116728",
+        "26549432"
+      ]
+    },
+    {
+      "question_id": 11,
+      "question": "Is the frequency of interval carcinoma occurence higher, lower, or the same when comparing screening with a combination of mammography and ultrasonography to screening with mammography alone?",
+      "answer": "lower",
+      "evidence_certainty": "high",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "34406400",
+        "30882843"
+      ]
+    },
+    {
+      "question_id": 12,
+      "question": "Is the breast cancer detection rate higher, lower, or the same when comparing screening with a combination of mammography and ultrasonography to screening with mammography alone?",
+      "answer": "higher",
+      "evidence_certainty": "high",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "34406400",
+        "29571797",
+        "26549432",
+        "23465737",
+        "30882843"
+      ]
+    }
+  ],
+  "29489032": [
+    {
+      "question_id": 13,
+      "question": "Is food intake higher, lower, or the same when comparing grehlin to placebo?",
+      "answer": "higher",
+      "evidence_certainty": "very low",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "15181065"
+      ]
+    }
+  ],
+  "33215474": [
+    {
+      "question_id": 14,
+      "question": "Is length gain higher, lower, or the same when comparing moderate protein concentration to low protein concentration?",
+      "answer": "higher",
+      "evidence_certainty": "low",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "27801753",
+        "10838460",
+        "8906139"
+      ]
+    },
+    {
+      "question_id": 15,
+      "question": "Is head circumference gain higher, lower, or the same when comparing moderate protein concentration to low protein concentration?",
+      "answer": "higher",
+      "evidence_certainty": "very low",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "27801753",
+        "10838460",
+        "8906139"
+      ]
+    },
+    {
+      "question_id": 16,
+      "question": "Is weight gain higher, lower, or the same when comparing moderate protein concentration to low protein concentration?",
+      "answer": "higher",
+      "evidence_certainty": "very low",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "27801753",
+        "10838460"
+      ]
+    },
+    {
+      "question_id": 17,
+      "question": "Is head circumference gain higher, lower, or the same when comparing high protein concentration low protein concentration?",
+      "answer": "uncertain effect",
+      "evidence_certainty": "very low",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "26488118",
+        "22301933",
+        "22987877",
+        "29772833",
+        "28727654"
+      ]
+    },
+    {
+      "question_id": 18,
+      "question": "Is length gain higher, lower, or the same when comparing high protein concentration low protein concentration?",
+      "answer": "uncertain effect",
+      "evidence_certainty": "very low",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "26488118",
+        "22301933",
+        "22987877",
+        "29772833",
+        "28727654"
+      ]
+    }
+  ],
+  "31206168": [
+    {
+      "question_id": 19,
+      "question": "Is mortality higher, lower, or the same when comparing rapid ART to standard initiation?",
+      "answer": "lower",
+      "evidence_certainty": "very low",
+      "fulltext_required": "yes",
+      "relevant_sources": [
+        "28742880",
+        "27658873",
+        "29509839",
+        "27163694",
+        "29136001",
+        "29112963",
+        "28542080"
+      ]
+    },
+    {
+      "question_id": 20,
+      "question": "Is retention in care at 12 months higher, lower, or the same when comparing rapid ART to standard initiation?",
+      "answer": "higher",
+      "evidence_certainty": "low",
+      "fulltext_required": "yes",
+      "relevant_sources": [
+        "28742880",
+        "29509839",
+        "27163694",
+        "29136001",
+        "29112963",
+        "28542080"
+      ]
+    },
+    {
+      "question_id": 21,
+      "question": "Is ART uptake at 12 months higher, lower, or the same when comparing rapid ART to standard initiation?",
+      "answer": "higher",
+      "evidence_certainty": "moderate",
+      "fulltext_required": "yes",
+      "relevant_sources": [
+        "28742880",
+        "27658873",
+        "29509839",
+        "27163694"
+      ]
+    },
+    {
+      "question_id": 22,
+      "question": "Is viral suppression at 12 months higher, lower, or the same when comparing rapid ART to standard initiation?",
+      "answer": "higher",
+      "evidence_certainty": "moderate",
+      "fulltext_required": "yes",
+      "relevant_sources": [
+        "28742880",
+        "27658873",
+        "29509839",
+        "27163694"
+      ]
+    }
+  ],
+  "28334427": [
+    {
+      "question_id": 23,
+      "question": "Is the rate of hypotension higher, lower, or the same when comparing capnography to standard monitoring?",
+      "answer": "no difference",
+      "evidence_certainty": "moderate",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "27006732"
+      ]
+    }
+  ],
+  "25280769": [
+    {
+      "question_id": 24,
+      "question": "Is the risk of HIV transmission at 12 months higher, lower, or the same when comparing triple antiretroviral prophylaxis during pregnancy and breastfeeding to short antiretroviral prophylaxis?",
+      "answer": "lower",
+      "evidence_certainty": "low",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "21237718"
+      ]
+    },
+    {
+      "question_id": 25,
+      "question": "Is the risk of infant HIV infection higher, lower, or the same when comparing zidovudine, lamivudine, and lopinavir/ritonavir to zidovudine, lamivudine, and abacavir from 26\u201034 weeks gestation through six months of breastfeeding?",
+      "answer": "no difference",
+      "evidence_certainty": "",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "20554983"
+      ]
+    },
+    {
+      "question_id": 26,
+      "question": "Is the risk of infant mortality after 12 months higher, lower, or the same when comparing six weeks of infant nevirapine to single dose infant nevirapine?",
+      "answer": "lower",
+      "evidence_certainty": "moderate",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "21330912"
+      ]
+    },
+    {
+      "question_id": 33,
+      "question": "Is the risk of infant HIV infection or death after 12 months higher, lower, or the same when comparing six weeks of infant nevirapine to single dose infant nevirapine?",
+      "answer": "no difference",
+      "evidence_certainty": "moderate",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "21330912"
+      ]
+    },
+    {
+      "question_id": 34,
+      "question": "Is the risk of infant HIV infection after 12 months higher, lower, or the same when comparing six weeks of infant nevirapine to single dose infant nevirapine?",
+      "answer": "no difference",
+      "evidence_certainty": "moderate",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "21330912"
+      ]
+    },
+    {
+      "question_id": 35,
+      "question": "Is the risk of HIV transmission at 24 months higher, lower, or the same when comparing nevirapine up to 14 weeks plus one week zidovudine to only single dose nevirapine plus one week zidovudine?",
+      "answer": "lower",
+      "evidence_certainty": "moderate",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "21423025"
+      ]
+    },
+    {
+      "question_id": 36,
+      "question": "Is the risk of HIV transmission or death at 24 months higher, lower, or the same when comparing nevirapine up to 14 weeks plus one week zidovudine to only single dose nevirapine plus one week zidovudine?",
+      "answer": "lower",
+      "evidence_certainty": "moderate",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "21423025"
+      ]
+    },
+    {
+      "question_id": 37,
+      "question": "Is the risk of HIV transmission or death at 24 months higher, lower, or the same when comparing nevirapine plus zidovudine with dual prophylaxis up to 14 weeks to only single dose nevirapine plus one week zidovudine?",
+      "answer": "lower",
+      "evidence_certainty": "moderate",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "21423025"
+      ]
+    },
+    {
+      "question_id": 38,
+      "question": "Is the risk of HIV transmission at 24 months higher, lower, or the same when comparing nevirapine plus zidovudine with dual prophylaxis up to 14 weeks to only single dose nevirapine plus one week zidovudine?",
+      "answer": "lower",
+      "evidence_certainty": "moderate",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "21423025"
+      ]
+    },
+    {
+      "question_id": 39,
+      "question": "Is the risk of HIV infection or death higher, lower, or the same when comparing a maternal extended triple\u2010drug antiretroviral regimen to no extended postnatal antiretroviral regimen?",
+      "answer": "lower",
+      "evidence_certainty": "moderate",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "20554982"
+      ]
+    },
+    {
+      "question_id": 40,
+      "question": "Is the risk of HIV infection higher, lower, or the same when comparing a maternal extended triple\u2010drug antiretroviral regimen to no extended postnatal antiretroviral regimen?",
+      "answer": "lower",
+      "evidence_certainty": "moderate",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "20554982"
+      ]
+    },
+    {
+      "question_id": 41,
+      "question": "Is the risk of HIV infection higher, lower, or the same when comparing an extended infant nevirapine regimen to no extended postnatal antiretroviral regimen?",
+      "answer": "lower",
+      "evidence_certainty": "low",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "20554982"
+      ]
+    },
+    {
+      "question_id": 42,
+      "question": "Is the risk of HIV infection or death higher, lower, or the same when comparing an extended infant nevirapine regimen to no extended postnatal antiretroviral regimen?",
+      "answer": "lower",
+      "evidence_certainty": "moderate",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "20554982"
+      ]
+    },
+    {
+      "question_id": 43,
+      "question": "Is the risk of HIV infection higher, lower, or the same when comparing an extended infant nevirapine regimen to a maternal extended triple\u2010drug antiretroviral regimen?",
+      "answer": "no difference",
+      "evidence_certainty": "moderate",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "20554982"
+      ]
+    },
+    {
+      "question_id": 44,
+      "question": "Is the risk of HIV infection or death higher, lower, or the same when comparing an extended infant nevirapine regimen to a maternal extended triple\u2010drug antiretroviral regimen?",
+      "answer": "no difference",
+      "evidence_certainty": "moderate",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "20554982"
+      ]
+    }
+  ],
+  "26447539": [
+    {
+      "question_id": 27,
+      "question": "Is fatigue severity higher, lower, or the same when comparing doxepin to placebo?",
+      "answer": "insufficient data",
+      "evidence_certainty": "low",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "23561946"
+      ]
+    },
+    {
+      "question_id": 28,
+      "question": "Is the progression of physical aspects of fatigue higher, lower, or the same when comparing rasagiline to placebo?",
+      "answer": "lower",
+      "evidence_certainty": "high",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "21482191"
+      ]
+    },
+    {
+      "question_id": 29,
+      "question": "Is subjective fatigue higher, lower, or the same when comparing modafinil to placebo?",
+      "answer": "no difference",
+      "evidence_certainty": "",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "19620846",
+        "16291885"
+      ]
+    },
+    {
+      "question_id": 30,
+      "question": "Is fatigue severity higher, lower, or the same when comparing exercise to usual care?",
+      "answer": "no difference",
+      "evidence_certainty": "low",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "22257506",
+        "21953509"
+      ]
+    },
+    {
+      "question_id": 31,
+      "question": "Is subjective fatigue higher, lower, or the same when comparing memantine to placebo?",
+      "answer": "no difference",
+      "evidence_certainty": "moderate",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "21193343"
+      ]
+    },
+    {
+      "question_id": 32,
+      "question": "Is subjective fatigue higher, lower, or the same when comparing methylphenidate to placebo?",
+      "answer": "no difference",
+      "evidence_certainty": "moderate",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "17674415"
+      ]
+    }
+  ],
+  "33565123": [
+    {
+      "question_id": 45,
+      "question": "Is the coverage of appropriate treatment from an appropriate provider for any iCCM illness higher, lower, or the same when comparing iCCM to usual facility services plus CCM for malaria?",
+      "answer": "uncertain effect",
+      "evidence_certainty": "very low",
+      "fulltext_required": "yes",
+      "relevant_sources": [
+        "26787147"
+      ]
+    },
+    {
+      "question_id": 46,
+      "question": "Is the coverage of careseeking to an appropriate provider for any iCCM illness higher, lower, or the same when comparing iCCM to usual facility services plus CCM for malaria?",
+      "answer": "no difference",
+      "evidence_certainty": "low",
+      "fulltext_required": "yes",
+      "relevant_sources": [
+        "23136276"
+      ]
+    }
+  ],
+  "34753201": [
+    {
+      "question_id": 47,
+      "question": "Is the incidence of breast hematomas within 90 days of breast surgery higher, lower, or the same when comparing NSAIDs to placebo?",
+      "answer": "no difference",
+      "evidence_certainty": "low",
+      "fulltext_required": "yes",
+      "relevant_sources": [
+        "27935990"
+      ]
+    },
+    {
+      "question_id": 48,
+      "question": "Is pain intensity 24 (\u00b1 12) hours following surgery higher, lower, or the same when comparing NSAIDs to placebo?",
+      "answer": "lower",
+      "evidence_certainty": "low",
+      "fulltext_required": "yes",
+      "relevant_sources": [
+        "31800611",
+        "16146476",
+        "8770304"
+      ]
+    }
+  ],
+  "27915460": [
+    {
+      "question_id": 49,
+      "question": "Is the incidence of pneumonia higher, lower, or the same when comparing zinc supplementation to placebo?",
+      "answer": "lower",
+      "evidence_certainty": "low",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "9651405",
+        "12052800",
+        "16168782",
+        "17593956"
+      ]
+    }
+  ],
+  "31930743": [
+    {
+      "question_id": 50,
+      "question": "Is overall survival higher, lower, or the same when comparing cisplatin in combination with third\u2010generation drugs to carboplatin in combination with third\u2010generation drugs?",
+      "answer": "no difference",
+      "evidence_certainty": "high",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "12928123",
+        "11784875",
+        "28643733",
+        "12377641",
+        "12826316",
+        "12837811",
+        "17409843"
+      ]
+    },
+    {
+      "question_id": 51,
+      "question": "Is response rate higher, lower, or the same when comparing cisplatin in combination with third\u2010generation drugs to carboplatin in combination with third\u2010generation drugs?",
+      "answer": "no difference",
+      "evidence_certainty": "high",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "12928123",
+        "11784875",
+        "28643733",
+        "12377641",
+        "12826316",
+        "12837811",
+        "17409843",
+        "28780466",
+        "21047474",
+        "11745199",
+        "21333222"
+      ]
+    }
+  ],
+  "29067682": [
+    {
+      "question_id": 52,
+      "question": "Is the rate of 50% or greater reduction in seizure frequency higher, lower, or the same when comparing eslicarbazepine acetate (ESL) of any dose to placebo?",
+      "answer": "higher",
+      "evidence_certainty": "moderate",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "20299189",
+        "17319919",
+        "19243424",
+        "19832771",
+        "25528898"
+      ]
+    },
+    {
+      "question_id": 53,
+      "question": "Is the rate of study withdrawal due to adverse effects higher, lower, or the same when comparing eslicarbazepine acetate (ESL) of any dose to placebo?",
+      "answer": "higher",
+      "evidence_certainty": "moderate",
+      "fulltext_required": "yes",
+      "relevant_sources": [
+        "20299189",
+        "17319919",
+        "19243424",
+        "19832771",
+        "25528898"
+      ]
+    }
+  ],
+  "27782297": [
+    {
+      "question_id": 54,
+      "question": "Is the overall cervical dystonia improvement higher, lower, or the same when comparing botulinum toxin type A (BtA) to botulinum toxin type B (BtB)?",
+      "answer": "higher",
+      "evidence_certainty": "low",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "16275831",
+        "18098274"
+      ]
+    },
+    {
+      "question_id": 55,
+      "question": "Is the rate of dysphagia higher, lower, or the same when comparing botulinum toxin type A (BtA) to botulinum toxin type B (BtB)?",
+      "answer": "no difference",
+      "evidence_certainty": "low",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "16275831",
+        "18098274",
+        "16157918"
+      ]
+    },
+    {
+      "question_id": 56,
+      "question": "Is the risk of treatment\u2010related sore throat/dry mouth higher, lower, or the same when comparing botulinum toxin type A (BtA) to botulinum toxin type B (BtB)?",
+      "answer": "lower",
+      "evidence_certainty": "moderate",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "16275831",
+        "18098274"
+      ]
+    }
+  ],
+  "25620061": [
+    {
+      "question_id": 57,
+      "question": "Is the overall survival rate higher, lower, or the same when comparing percutaneous ethanol injection (PEI) to percutaneous acetic acid injection (PAI)?",
+      "answer": "no difference",
+      "evidence_certainty": "low",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "9425919",
+        "16009687"
+      ]
+    },
+    {
+      "question_id": 58,
+      "question": "Is the overall survival rate higher, lower, or the same when comparing percutaneous ethanol injection (PEI) to surgery?",
+      "answer": "no difference",
+      "evidence_certainty": "very low",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "15973099"
+      ]
+    },
+    {
+      "question_id": 221,
+      "question": "Is the overall survival rate higher, lower, or the same when comparing percutaneous acetic acid injection (PAI) to sham intervention?",
+      "answer": "insufficient data",
+      "evidence_certainty": "",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "9425919",
+        "16009687",
+        "15973099"
+      ]
+    },
+    {
+      "question_id": 222,
+      "question": "Is the overall survival rate higher, lower, or the same when comparing percutaneous ethanol injection (PEI) to sham intervention?",
+      "answer": "insufficient data",
+      "evidence_certainty": "",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "9425919",
+        "16009687",
+        "15973099"
+      ]
+    },
+    {
+      "question_id": 223,
+      "question": "Is the overall survival rate higher, lower, or the same when comparing percutaneous acetic acid injection (PAI) to no intervention?",
+      "answer": "insufficient data",
+      "evidence_certainty": "",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "9425919",
+        "16009687",
+        "15973099"
+      ]
+    },
+    {
+      "question_id": 224,
+      "question": "Is the overall survival rate higher, lower, or the same when comparing percutaneous ethanol injection (PEI) to no intervention?",
+      "answer": "insufficient data",
+      "evidence_certainty": "",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "9425919",
+        "16009687",
+        "15973099"
+      ]
+    }
+  ],
+  "31608991": [
+    {
+      "question_id": 59,
+      "question": "Is the risk of seizure recurrence higher, lower, or the same when comparing six months of treatment to 12-24 months treatment?",
+      "answer": "no difference",
+      "evidence_certainty": "low",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "16441247",
+        "12134175",
+        "12134176"
+      ]
+    },
+    {
+      "question_id": 60,
+      "question": "Is the risk of seizure recurrence higher, lower, or the same when comparing 6-12 months of treatment to 24 months of treatment?",
+      "answer": "no difference",
+      "evidence_certainty": "low",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "16441247",
+        "14604159",
+        "12134175"
+      ]
+    }
+  ],
+  "29464690": [
+    {
+      "question_id": 61,
+      "question": "Is the duration of mechanical ventilation higher, lower, or the same when comparing bispectral index (BIS) monitoring to clinical assessment for sedation?",
+      "answer": "no difference",
+      "evidence_certainty": "low",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "17444309",
+        "21473824"
+      ]
+    },
+    {
+      "question_id": 62,
+      "question": "Is the incidence of restlessness after suction higher, lower, or the same when comparing bispectral index (BIS) monitoring to clinical assessment for sedation?",
+      "answer": "uncertain effect",
+      "evidence_certainty": "very low",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "21473824"
+      ]
+    },
+    {
+      "question_id": 63,
+      "question": "Is the incidence of delirium after extubation higher, lower, or the same when comparing bispectral index (BIS) monitoring to clinical assessment for sedation?",
+      "answer": "uncertain effect",
+      "evidence_certainty": "very low",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "21473824"
+      ]
+    },
+    {
+      "question_id": 64,
+      "question": "Is the incidence of endotracheal tube resistance higher, lower, or the same when comparing bispectral index (BIS) monitoring to clinical assessment for sedation?",
+      "answer": "uncertain effect",
+      "evidence_certainty": "very low",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "21473824"
+      ]
+    }
+  ],
+  "30566235": [
+    {
+      "question_id": 65,
+      "question": "Is improvement in depression symptoms higher, lower, or the same when comparing SSRIs to placebo?",
+      "answer": "no difference",
+      "evidence_certainty": "very low",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "25308771",
+        "17136950"
+      ]
+    }
+  ],
+  "29963686": [
+    {
+      "question_id": 66,
+      "question": "Is the risk of major postoperative bleeding requiring intervention higher, lower, or the same when comparing tranexamic acid (TXA) to placebo?",
+      "answer": "lower",
+      "evidence_certainty": "moderate",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "2648144",
+        "8229393"
+      ]
+    }
+  ],
+  "31038197": [
+    {
+      "question_id": 67,
+      "question": "Is the risk of developing microbiologically confirmed tuberculosis higher, lower, or the same when comparing MVA85A added to BCG to BCG alone?",
+      "answer": "no difference",
+      "evidence_certainty": "moderate",
+      "fulltext_required": "yes",
+      "relevant_sources": [
+        "25726088",
+        "23391465"
+      ]
+    },
+    {
+      "question_id": 68,
+      "question": "Is the risk of developing latent tuberculosis higher, lower, or the same when comparing MVA85A added to BCG to BCG alone? ",
+      "answer": "no difference",
+      "evidence_certainty": "moderate",
+      "fulltext_required": "yes",
+      "relevant_sources": [
+        "25726088",
+        "23391465",
+        "29028973"
+      ]
+    },
+    {
+      "question_id": 69,
+      "question": "Is the risk of life\u2010threatening serious adverse effects higher, lower, or the same when comparing MVA85A added to BCG to BCG alone?",
+      "answer": "no difference",
+      "evidence_certainty": "high",
+      "fulltext_required": "yes",
+      "relevant_sources": [
+        "25726088",
+        "23391465",
+        "29028973"
+      ]
+    },
+    {
+      "question_id": 70,
+      "question": "Is the risk of starting on tuberculosis treatment higher, lower, or the same when comparing MVA85A added to BCG to BCG alone?",
+      "answer": "no difference",
+      "evidence_certainty": "moderate",
+      "fulltext_required": "yes",
+      "relevant_sources": [
+        "25726088",
+        "23391465",
+        "29028973"
+      ]
+    }
+  ],
+  "28535331": [
+    {
+      "question_id": 71,
+      "question": "Is improvement in health status up to 6 months (as measured by improvement on both CCQ and SGRQ) higher, lower, or the same when comparing smart technology for self\u2010management to face\u2010to\u2010face/digital and/or written support for self\u2010management?",
+      "answer": "higher",
+      "evidence_certainty": "low",
+      "fulltext_required": "yes",
+      "relevant_sources": [
+        "27502583",
+        "26089656",
+        "24293120"
+      ]
+    },
+    {
+      "question_id": 72,
+      "question": "Is the risk of adverse events higher, lower, or the same when comparing smart technology for self\u2010management to face\u2010to\u2010face/digital and/or written support for self\u2010management?",
+      "answer": "higher",
+      "evidence_certainty": "",
+      "fulltext_required": "yes",
+      "relevant_sources": [
+        "27502583"
+      ]
+    },
+    {
+      "question_id": 73,
+      "question": "Is activity level up to 6 months higher, lower, or the same when comparing smart technology for self\u2010management to face\u2010to\u2010face/digital and/or written support for self\u2010management?",
+      "answer": "higher",
+      "evidence_certainty": "low",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "25811395",
+        "27502583"
+      ]
+    },
+    {
+      "question_id": 74,
+      "question": "Is activity level at 12 months higher, lower, or the same when comparing smart technology for self\u2010management to face\u2010to\u2010face/digital and/or written support for self\u2010management?",
+      "answer": "no difference",
+      "evidence_certainty": "",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "25811395"
+      ]
+    },
+    {
+      "question_id": 75,
+      "question": "Is the risk of hospital admission by 12 months higher, lower, or the same when comparing smart technology for self\u2010management to face\u2010to\u2010face/digital and/or written support for self\u2010management?",
+      "answer": "no difference",
+      "evidence_certainty": "low",
+      "fulltext_required": "yes",
+      "relevant_sources": [
+        "27502583"
+      ]
+    },
+    {
+      "question_id": 76,
+      "question": "Is smoking cessation higher, lower, or the same when comparing smart technology for self\u2010management to face\u2010to\u2010face/digital and/or written support for self\u2010management?",
+      "answer": "no difference",
+      "evidence_certainty": "moderate",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "26089656"
+      ]
+    }
+  ],
+  "31120132": [
+    {
+      "question_id": 77,
+      "question": "Is malaria parasite prevalence higher, lower, or the same when comparing non\u2010pyrethroid\u2010like indoor residual spraying (IRS) plus insecticide\u2010treated nets (ITNs) to insecticide\u2010treated nets (ITNs) alone?",
+      "answer": "lower",
+      "evidence_certainty": "low",
+      "fulltext_required": "yes",
+      "relevant_sources": [
+        "29229808",
+        "22682536",
+        "24736370",
+        "29655496",
+        "22682536"
+      ]
+    },
+    {
+      "question_id": 78,
+      "question": "Is malaria incidence higher, lower, or the same when comparing non\u2010pyrethroid\u2010like indoor residual spraying (IRS) plus insecticide\u2010treated nets (ITNs) to insecticide\u2010treated nets (ITNs) alone?",
+      "answer": "uncertain effect",
+      "evidence_certainty": "very low",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "29229808",
+        "22682536"
+      ]
+    },
+    {
+      "question_id": 79,
+      "question": "Is anaemia prevalence higher, lower, or the same when comparing non\u2010pyrethroid\u2010like indoor residual spraying (IRS) plus insecticide\u2010treated nets (ITNs) to insecticide\u2010treated nets (ITNs) alone?",
+      "answer": "lower",
+      "evidence_certainty": "low",
+      "fulltext_required": "yes",
+      "relevant_sources": [
+        "24736370",
+        "29655496"
+      ]
+    },
+    {
+      "question_id": 80,
+      "question": "Is malaria incidence higher, lower, or the same when comparing pyrethroid\u2010like indoor residual spraying (IRS) plus insecticide\u2010treated nets (ITNs) to insecticide\u2010treated nets (ITNs) alone?",
+      "answer": "no difference",
+      "evidence_certainty": "moderate",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "25498847",
+        "29229808"
+      ]
+    },
+    {
+      "question_id": 81,
+      "question": "Is malaria parasite prevalence higher, lower, or the same when comparing pyrethroid\u2010like indoor residual spraying (IRS) plus insecticide\u2010treated nets (ITNs) to insecticide\u2010treated nets (ITNs) alone?",
+      "answer": "no difference",
+      "evidence_certainty": "moderate",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "25498847",
+        "29229808",
+        "21565149"
+      ]
+    }
+  ],
+  "31829446": [
+    {
+      "question_id": 82,
+      "question": "Is the rate of major complications higher, lower, or the same when comparing restrictive fluid therapy (RFT) to goal\u2010directed fluid therapy (GDFT)?",
+      "answer": "uncertain effect",
+      "evidence_certainty": "very low",
+      "fulltext_required": "yes",
+      "relevant_sources": [
+        "26471495",
+        "22710266",
+        "25595308",
+        "25342408",
+        "23132508"
+      ]
+    },
+    {
+      "question_id": 83,
+      "question": "Is the length of hospital stay higher, lower, or the same when comparing restrictive fluid therapy (RFT) to goal\u2010directed fluid therapy (GDFT)?",
+      "answer": "no difference",
+      "evidence_certainty": "very low",
+      "fulltext_required": "yes",
+      "relevant_sources": [
+        "23070341",
+        "26471495",
+        "22710266",
+        "25342408",
+        "23132508"
+      ]
+    }
+  ],
+  "26904970": [
+    {
+      "question_id": 84,
+      "question": "Is survival to hospital discharge higher, lower, or the same when comparing biphasic waveform defibrillation to monophasic waveform defibrillation?",
+      "answer": "no difference",
+      "evidence_certainty": "",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "11719116",
+        "17060379",
+        "12867305",
+        "15992986"
+      ]
+    },
+    {
+      "question_id": 85,
+      "question": "Is survival to hospital admission higher, lower, or the same when comparing biphasic waveform defibrillation to monophasic waveform defibrillation?",
+      "answer": "no difference",
+      "evidence_certainty": "",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "11719116",
+        "17060379"
+      ]
+    }
+  ],
+  "31557310": [
+    {
+      "question_id": 86,
+      "question": "Is the incidence of surgical site infection (SSI) for patients undergoing breast cancer surgery without reconstruction higher, lower, or the same when comparing prophylactic antibiotics administered preoperatively to no antibiotic or placebo?",
+      "answer": "lower",
+      "evidence_certainty": "moderate",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "11063500",
+        "23001082",
+        "16989011",
+        "7480237",
+        "9776150",
+        "23052809",
+        "10873356",
+        "19673597",
+        "2403655",
+        "2403697"
+      ]
+    },
+    {
+      "question_id": 87,
+      "question": "Is the rate of hospital readmission higher, lower, or the same when comparing prophylactic antibiotics administered preoperatively to placebo?",
+      "answer": "uncertain effect",
+      "evidence_certainty": "low",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "9776150",
+        "2403655"
+      ]
+    },
+    {
+      "question_id": 88,
+      "question": "Is the incidence of surgical site infection (SSI) for patients undergoing breast cancer surgery without reconstruction higher, lower, or the same when comparing prophylactic antibiotics administered preoperatively to no antibiotic?",
+      "answer": "lower",
+      "evidence_certainty": "moderate",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "11063500",
+        "23001082",
+        "16989011"
+      ]
+    },
+    {
+      "question_id": 89,
+      "question": "Is the incidence of surgical site infection (SSI) for patients undergoing breast cancer surgery without reconstruction higher, lower, or the same when comparing prophylactic antibiotics administered preoperatively to placebo?",
+      "answer": "lower",
+      "evidence_certainty": "moderate",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "7480237",
+        "9776150",
+        "23052809",
+        "10873356",
+        "19673597",
+        "2403655",
+        "2403697"
+      ]
+    },
+    {
+      "question_id": 90,
+      "question": "Is the cost of care higher, lower, or the same when comparing prophylactic antibiotics administered preoperatively to no antibiotic or placebo?",
+      "answer": "uncertain effect",
+      "evidence_certainty": "low",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "23001082",
+        "9776150"
+      ]
+    }
+  ],
+  "32068247": [
+    {
+      "question_id": 91,
+      "question": "Is the likelihood of detoxification at six\u2010month follow\u2010up higher, lower, or the same when comparing dihydrocodeine (DHC) to buprenorphine?",
+      "answer": "no difference",
+      "evidence_certainty": "low",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "19196468",
+        "17210079"
+      ]
+    },
+    {
+      "question_id": 92,
+      "question": "Is the likelihood of treatment retention higher, lower, or the same when comparing dihydrocodeine (DHC) to buprenorphine?",
+      "answer": "no difference",
+      "evidence_certainty": "low",
+      "fulltext_required": "yes",
+      "relevant_sources": [
+        "19196468",
+        "17210079"
+      ]
+    }
+  ],
+  "30746689": [
+    {
+      "question_id": 93,
+      "question": "Is the time to postvoid residual volume of urine \u2264 50 mL higher, lower, or the same when comparing nerve\u2010sparing radical hysterectomy to standard radical hysterectomy?",
+      "answer": "lower",
+      "evidence_certainty": "low",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "22209773",
+        "25872890"
+      ]
+    },
+    {
+      "question_id": 94,
+      "question": "Is the likelihood of disease-free survival higher, lower, or the same when comparing nerve\u2010sparing radical hysterectomy to standard radical hysterectomy?",
+      "answer": "no difference",
+      "evidence_certainty": "very low",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "25872890"
+      ]
+    }
+  ],
+  "37162250": [
+    {
+      "question_id": 95,
+      "question": "Is functional capacity higher, lower, or the same when comparing prehabilitation to no prehabilitation before colorectal cancer surgery?",
+      "answer": "higher",
+      "evidence_certainty": "very low",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "29327644",
+        "25076007"
+      ]
+    },
+    {
+      "question_id": 96,
+      "question": "Is the risk of complications higher, lower, or the same when comparing prehabilitation to no prehabilitation before colorectal cancer surgery?",
+      "answer": "no difference",
+      "evidence_certainty": "low",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "31968063",
+        "25076007"
+      ]
+    }
+  ],
+  "36200610": [
+    {
+      "question_id": 97,
+      "question": "Is moderate to severe anaemia prevalence higher, lower, or the same when comparing house modifications to no modifications?",
+      "answer": "lower",
+      "evidence_certainty": "high",
+      "fulltext_required": "yes",
+      "relevant_sources": [
+        "33838737",
+        "19732949",
+        "33640067"
+      ]
+    },
+    {
+      "question_id": 98,
+      "question": "Is malaria parasite prevalence higher, lower, or the same when comparing housing modifications to no modifications?",
+      "answer": "lower",
+      "evidence_certainty": "moderate",
+      "fulltext_required": "yes",
+      "relevant_sources": [
+        "19732949",
+        "34022912",
+        "35437129",
+        "32950061",
+        "33838737"
+      ]
+    },
+    {
+      "question_id": 99,
+      "question": "Is clinical malaria incidence higher, lower, or the same when comparing housing modifications to no modifications?",
+      "answer": "uncertain effect",
+      "evidence_certainty": "very low",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "29452110",
+        "33838737",
+        "33640067"
+      ]
+    },
+    {
+      "question_id": 100,
+      "question": "Is indoor adult mosquito density higher, lower, or the same when comparing housing modifications to no modifications?",
+      "answer": "lower",
+      "evidence_certainty": "low",
+      "fulltext_required": "yes",
+      "relevant_sources": [
+        "19732949",
+        "34022912",
+        "33640067",
+        "33838737"
+      ]
+    }
+  ],
+  "32104914": [
+    {
+      "question_id": 101,
+      "question": "Is global cognitive function level at the end of intervention higher, lower, or the same when comparing computerised cognitive training (CCT) of at least 12 weeks to active control interventions?",
+      "answer": "higher",
+      "evidence_certainty": "low",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "21311196",
+        "29261218"
+      ]
+    },
+    {
+      "question_id": 102,
+      "question": "Is speed of processing at the end of intervention higher, lower, or the same when comparing computerised cognitive training (CCT) of at least 12 weeks to active control interventions?",
+      "answer": "uncertain effect",
+      "evidence_certainty": "very low",
+      "fulltext_required": "yes",
+      "relevant_sources": [
+        "23531885",
+        "27698558"
+      ]
+    },
+    {
+      "question_id": 103,
+      "question": "Is episodic memory at the end of intervention higher, lower, or the same when comparing computerised cognitive training (CCT) of at least 12 weeks to no intervention?",
+      "answer": "higher",
+      "evidence_certainty": "low",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "20418350"
+      ]
+    },
+    {
+      "question_id": 104,
+      "question": "Is speed of processing at the end of intervention higher, lower, or the same when comparing computerised cognitive training (CCT) of at least 12 weeks to no intervention?",
+      "answer": "uncertain effect",
+      "evidence_certainty": "very low",
+      "fulltext_required": "yes",
+      "relevant_sources": [
+        "23531885",
+        "25511081"
+      ]
+    },
+    {
+      "question_id": 105,
+      "question": "Is working memory at the end of intervention higher, lower, or the same when comparing computerised cognitive training (CCT) of at least 12 weeks to no intervention?",
+      "answer": "no difference",
+      "evidence_certainty": "low",
+      "fulltext_required": "yes",
+      "relevant_sources": [
+        "23531885"
+      ]
+    },
+    {
+      "question_id": 230,
+      "question": "Is global cognitive function at the end of intervention higher, lower, or the same when comparing computerised cognitive training (CCT) of at least 12 weeks to no intervention?",
+      "answer": "insufficient data",
+      "evidence_certainty": "",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "23531885",
+        "25511081",
+        "20418350"
+      ]
+    },
+    {
+      "question_id": 231,
+      "question": "Is the rate of activities of daily living higher, lower, or the same when comparing computerised cognitive training (CCT) of at least 12 weeks to no intervention?",
+      "answer": "insufficient data",
+      "evidence_certainty": "",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "23531885",
+        "25511081",
+        "20418350"
+      ]
+    },
+    {
+      "question_id": 232,
+      "question": "Is the rate of activities of daily living higher, lower, or the same when comparing computerised cognitive training (CCT) of at least 12 weeks to active control interventions?",
+      "answer": "insufficient data",
+      "evidence_certainty": "",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "27698558",
+        "29261218",
+        "21615936",
+        "26417460",
+        "21311196",
+        "23531885"
+      ]
+    },
+    {
+      "question_id": 233,
+      "question": "Is the risk of adverse effects higher, lower, or the same when comparing computerised cognitive training (CCT) of at least 12 weeks to no intervention?",
+      "answer": "insufficient data",
+      "evidence_certainty": "",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "23531885",
+        "25511081",
+        "20418350"
+      ]
+    },
+    {
+      "question_id": 234,
+      "question": "Is the risk of adverse effects higher, lower, or the same when comparing computerised cognitive training (CCT) of at least 12 weeks to active control interventions?",
+      "answer": "insufficient data",
+      "evidence_certainty": "",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "27698558",
+        "29261218",
+        "21615936",
+        "26417460",
+        "21311196",
+        "23531885"
+      ]
+    },
+    {
+      "question_id": 235,
+      "question": "Is quality of life higher, lower, or the same when comparing computerised cognitive training (CCT) of at least 12 weeks to no intervention?",
+      "answer": "insufficient data",
+      "evidence_certainty": "",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "23531885",
+        "25511081",
+        "20418350"
+      ]
+    },
+    {
+      "question_id": 236,
+      "question": "Is quality of life higher, lower, or the same when comparing computerised cognitive training (CCT) of at least 12 weeks to active control interventions?",
+      "answer": "insufficient data",
+      "evidence_certainty": "",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "27698558",
+        "29261218",
+        "21615936",
+        "26417460",
+        "21311196",
+        "23531885"
+      ]
+    }
+  ],
+  "38197546": [
+    {
+      "question_id": 106,
+      "question": "Is the risk of cholera at two-year follow-up higher, lower, or the same when comparing two doses of Dukoral with or without a booster dose to placebo?",
+      "answer": "lower",
+      "evidence_certainty": "high",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "7967990",
+        "10823767"
+      ]
+    },
+    {
+      "question_id": 107,
+      "question": "Is the risk of cholera at two-year follow-up higher, lower, or the same when comparing two doses of Shanchol to placebo?",
+      "answer": "lower",
+      "evidence_certainty": "moderate",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "19819004",
+        "26164097"
+      ]
+    },
+    {
+      "question_id": 108,
+      "question": "Is the risk of cholera at five-year follow-up higher, lower, or the same when comparing two doses of Shanchol to placebo?",
+      "answer": "lower",
+      "evidence_certainty": "high",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "24140390",
+        "29463233"
+      ]
+    },
+    {
+      "question_id": 109,
+      "question": "Is the risk of cholera at two-year follow-up higher, lower, or the same when comparing one dose of Shanchol to placebo?",
+      "answer": "lower",
+      "evidence_certainty": "high",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "29550406"
+      ]
+    },
+    {
+      "question_id": 110,
+      "question": "Is the risk of severe dehydrating cholera at two-year follow-up higher, lower, or the same when comparing one dose of Shanchol to placebo?",
+      "answer": "lower",
+      "evidence_certainty": "high",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "29550406"
+      ]
+    }
+  ],
+  "36637057": [
+    {
+      "question_id": 111,
+      "question": "Is vision-related quality of life higher, lower, or the same when comparing telerehabilitation with a therapist to self-guided training?",
+      "answer": "no difference",
+      "evidence_certainty": "very low",
+      "fulltext_required": "yes",
+      "relevant_sources": [
+        "34081648"
+      ]
+    },
+    {
+      "question_id": 112,
+      "question": "Is device abandonment after 2 weeks higher, lower, or the same when comparing telerehabilitation with a therapist to self-guided training?",
+      "answer": "lower",
+      "evidence_certainty": "very low",
+      "fulltext_required": "yes",
+      "relevant_sources": [
+        "34081649"
+      ]
+    },
+    {
+      "question_id": 113,
+      "question": "Is device abandonment after 3 months higher, lower, or the same when comparing telerehabilitation with a therapist to self-guided training?",
+      "answer": "no difference",
+      "evidence_certainty": "very low",
+      "fulltext_required": "yes",
+      "relevant_sources": [
+        "34081649"
+      ]
+    }
+  ],
+  "32898300": [
+    {
+      "question_id": 114,
+      "question": "Is weight by 30 days of age higher, lower, or the same when comparing carbohydrate supplementation to no supplementation?",
+      "answer": "higher",
+      "evidence_certainty": "very low",
+      "fulltext_required": "yes",
+      "relevant_sources": [
+        "25538834"
+      ]
+    },
+    {
+      "question_id": 115,
+      "question": "Is the risk of feeding intolerance higher, lower, or the same when comparing carbohydrate supplementation to no supplementation?",
+      "answer": "no difference",
+      "evidence_certainty": "very low",
+      "fulltext_required": "yes",
+      "relevant_sources": [
+        "25538834"
+      ]
+    },
+    {
+      "question_id": 116,
+      "question": "Is the risk of necrotising enterocolitis (NEC) higher, lower, or the same when comparing carbohydrate supplementation to no supplementation?",
+      "answer": "no difference",
+      "evidence_certainty": "very low",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "25538834"
+      ]
+    }
+  ],
+  "27078125": [
+    {
+      "question_id": 117,
+      "question": "Is the risk of severe post-partum haemorrhage (PPH) higher, lower, or the same when comparing oxytocin to no intervention?",
+      "answer": "no difference",
+      "evidence_certainty": "very low",
+      "fulltext_required": "yes",
+      "relevant_sources": [
+        "24130463"
+      ]
+    },
+    {
+      "question_id": 118,
+      "question": "Is the risk of PPH (> 500 mL)  higher, lower, or the same when comparing oxytocin to no intervention?",
+      "answer": "lower",
+      "evidence_certainty": "low",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "24130463"
+      ]
+    },
+    {
+      "question_id": 119,
+      "question": "Is transfer or referral of the mother to a healthcare facility higher, lower, or the same when comparing oxytocin to no intervention?",
+      "answer": "no difference",
+      "evidence_certainty": "low",
+      "fulltext_required": "yes",
+      "relevant_sources": [
+        "24130463"
+      ]
+    },
+    {
+      "question_id": 120,
+      "question": "Is the risk of stillbirth higher, lower, or the same when comparing oxytocin to no intervention?",
+      "answer": "no difference",
+      "evidence_certainty": "low",
+      "fulltext_required": "yes",
+      "relevant_sources": [
+        "24130463"
+      ]
+    },
+    {
+      "question_id": 121,
+      "question": "Is the risk of early infant death (0-3 days) higher, lower, or the same when comparing oxytocin to no intervention?",
+      "answer": "no difference",
+      "evidence_certainty": "low",
+      "fulltext_required": "yes",
+      "relevant_sources": [
+        "24130463"
+      ]
+    },
+    {
+      "question_id": 226,
+      "question": "Is maternal anaemia higher, lower, or the same when comparing oxytocin to no intervention?",
+      "answer": "insufficient data",
+      "evidence_certainty": "",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "24130463"
+      ]
+    },
+    {
+      "question_id": 227,
+      "question": "Is neonatal death within 28 days higher, lower, or the same when comparing oxytocin to no intervention?",
+      "answer": "insufficient data",
+      "evidence_certainty": "",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "24130463"
+      ]
+    },
+    {
+      "question_id": 228,
+      "question": "Is the rate of breastfeeding higher, lower, or the same when comparing oxytocin to no intervention?",
+      "answer": "insufficient data",
+      "evidence_certainty": "",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "24130463"
+      ]
+    },
+    {
+      "question_id": 229,
+      "question": "Is the rate of breastfeeding higher, lower, or the same when comparing oxytocin to no intervention?",
+      "answer": "insufficient data",
+      "evidence_certainty": "",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "24130463"
+      ]
+    }
+  ],
+  "30590875": [
+    {
+      "question_id": 122,
+      "question": "Is the risk of gingivitis higher, lower, or the same when comparing scaling and polishing at a reguarly-scheduled 6 month interval to no yearly-or-shorter schedule for scaling and polishing?",
+      "answer": "no difference",
+      "evidence_certainty": "high",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "22204658",
+        "29984691"
+      ]
+    },
+    {
+      "question_id": 123,
+      "question": "Is the risk of gingivitis higher, lower, or the same when comparing scaling and polishing at a reguarly-scheduled 12 month interval to no yearly-or-shorter schedule for scaling and polishing?",
+      "answer": "no difference",
+      "evidence_certainty": "high",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "22204658",
+        "29984691"
+      ]
+    },
+    {
+      "question_id": 124,
+      "question": "Is the risk of gingivitis higher, lower, or the same when comparing scaling and polishing at a 6 month interval to scaling and polishing at a 12 month interval?",
+      "answer": "no difference",
+      "evidence_certainty": "high",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "22204658",
+        "29984691"
+      ]
+    }
+  ],
+  "33631841": [
+    {
+      "question_id": 125,
+      "question": "Is the likelihood of 4\u2010point improvement in SELENA\u2010SLEDAI higher, lower, or the same when comparing belimumab to placebo?",
+      "answer": "higher",
+      "evidence_certainty": "high",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "29295825",
+        "28118533",
+        "21296403",
+        "22127708"
+      ]
+    },
+    {
+      "question_id": 126,
+      "question": "Is the risk of one or more serious adverse events higher, lower, or the same when comparing belimumab to placebo?",
+      "answer": "no difference",
+      "evidence_certainty": "low",
+      "fulltext_required": "yes",
+      "relevant_sources": [
+        "19714604",
+        "28118533",
+        "22127708",
+        "21296403",
+        "29295825"
+      ]
+    },
+    {
+      "question_id": 127,
+      "question": "Is the risk of one or more serious infections higher, lower, or the same when comparing belimumab to placebo?",
+      "answer": "no difference",
+      "evidence_certainty": "moderate",
+      "fulltext_required": "yes",
+      "relevant_sources": [
+        "19714604",
+        "28118533",
+        "22127708",
+        "21296403"
+      ]
+    }
+  ],
+  "24477672": [
+    {
+      "question_id": 128,
+      "question": "Is the incidence of critical illness polyneuropathy/myopathy (CIP/CIM) higher, lower, or the same when comparing intensive insulin therapy (IIT) to conventional insulin therapy (CIT)?",
+      "answer": "lower",
+      "evidence_certainty": "moderate",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "17138955",
+        "15851721"
+      ]
+    },
+    {
+      "question_id": 129,
+      "question": "Is duration of mechanical ventilation higher, lower, or the same when comparing intensive insulin therapy (IIT) to conventional insulin therapy (CIT)?",
+      "answer": "lower",
+      "evidence_certainty": "high",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "17138955",
+        "15851721"
+      ]
+    },
+    {
+      "question_id": 130,
+      "question": "Is mortality rate at 180 days higher, lower, or the same when comparing corticosteroids to placebo?",
+      "answer": "no difference",
+      "evidence_certainty": "high",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "16625008"
+      ]
+    },
+    {
+      "question_id": 131,
+      "question": "Is the incidence of critical illness polyneuropathy/myopathy (CIP/CIM) higher, lower, or the same when comparing electrical muscle stimulation (EMS) to no stimulation?",
+      "answer": "no difference",
+      "evidence_certainty": "very low",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "20426834"
+      ]
+    },
+    {
+      "question_id": 237,
+      "question": "Is duration of ICU stay higher, lower, or the same when comparing early physical therapy to control?",
+      "answer": "no difference",
+      "evidence_certainty": "",
+      "fulltext_required": "yes",
+      "relevant_sources": [
+        "19446324"
+      ]
+    },
+    {
+      "question_id": 238,
+      "question": "Is duration of mechanical ventilation higher, lower, or the same when comparing early physical therapy to control?",
+      "answer": "lower",
+      "evidence_certainty": "",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "19446324"
+      ]
+    },
+    {
+      "question_id": 239,
+      "question": "Is mortality rate at 30 days higher, lower, or the same when comparing early physical therapy to control?",
+      "answer": "insufficient data",
+      "evidence_certainty": "",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "19446324"
+      ]
+    },
+    {
+      "question_id": 240,
+      "question": "Is mortality rate at 180 days higher, lower, or the same when comparing early physical therapy to control?",
+      "answer": "insufficient data",
+      "evidence_certainty": "",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "19446324"
+      ]
+    },
+    {
+      "question_id": 241,
+      "question": "Is mortality rate at 180 days higher, lower, or the same when comparing electrical muscle stimulation (EMS) to no stimulation?",
+      "answer": "insufficient data",
+      "evidence_certainty": "",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "20426834"
+      ]
+    },
+    {
+      "question_id": 242,
+      "question": "Is mortality rate at 30 days higher, lower, or the same when comparing electrical muscle stimulation (EMS) to no stimulation?",
+      "answer": "insufficient data",
+      "evidence_certainty": "",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "20426834"
+      ]
+    }
+  ],
+  "26689943": [
+    {
+      "question_id": 132,
+      "question": "Is the rate of all\u2010cause hospital admission higher, lower, or the same when comparing nurse-led titration (NLT) to usual care?",
+      "answer": "lower",
+      "evidence_certainty": "high",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "16908918",
+        "25248944",
+        "23150980"
+      ]
+    }
+  ],
+  "37497816": [
+    {
+      "question_id": 133,
+      "question": "Is time to complete ulcer healing higher, lower, or the same when comparing combined endovenous ablation and compression to compression therapy without or with deferred endovenous treatment?",
+      "answer": "lower",
+      "evidence_certainty": "high",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "29688123",
+        "32928070"
+      ]
+    },
+    {
+      "question_id": 134,
+      "question": "Is ulcer recurrence higher, lower, or the same when comparing combined endovenous ablation and compression to compression therapy without or with deferred endovenous treatment?",
+      "answer": "uncertain effect",
+      "evidence_certainty": "low",
+      "fulltext_required": "yes",
+      "relevant_sources": [
+        "32965493",
+        "32928070"
+      ]
+    }
+  ],
+  "34002371": [
+    {
+      "question_id": 135,
+      "question": "Is the risk of stroke higher, lower, or the same when comparing rivaroxaban to placebo?",
+      "answer": "lower",
+      "evidence_certainty": "moderate",
+      "fulltext_required": "yes",
+      "relevant_sources": [
+        "31461239"
+      ]
+    }
+  ],
+  "29446439": [
+    {
+      "question_id": 136,
+      "question": "Is the proportion of children wearing spectacles higher, lower, or the same when comparing vision screening with free spectacles to vision screening with spectacles by prescription only?",
+      "answer": "higher",
+      "evidence_certainty": "high",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "18156372",
+        "25249453"
+      ]
+    },
+    {
+      "question_id": 137,
+      "question": "Is educational attainment higher, lower, or the same when comparing vision screening with free spectacles to vision screening with spectacles by prescription only?",
+      "answer": "higher",
+      "evidence_certainty": "low",
+      "fulltext_required": "yes",
+      "relevant_sources": [
+        "25249453"
+      ]
+    }
+  ],
+  "32352165": [
+    {
+      "question_id": 138,
+      "question": "Is the risk of major bleeding higher, lower, or the same when comparing aspirin to placebo?",
+      "answer": "higher",
+      "evidence_certainty": "high",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "30221596"
+      ]
+    },
+    {
+      "question_id": 139,
+      "question": "Is the risk of dementia higher, lower, or the same when comparing aspirin to placebo?",
+      "answer": "no difference",
+      "evidence_certainty": "high",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "30221596"
+      ]
+    },
+    {
+      "question_id": 140,
+      "question": "Is the risk of mortality higher, lower, or the same when comparing aspirin to placebo?",
+      "answer": "higher",
+      "evidence_certainty": "high",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "30221596"
+      ]
+    },
+    {
+      "question_id": 141,
+      "question": "Is the incidence of myocardial infarction higher, lower, or the same when comparing NSAIDs to placebo?",
+      "answer": "no difference",
+      "evidence_certainty": "moderate",
+      "fulltext_required": "yes",
+      "relevant_sources": [
+        "17111043"
+      ]
+    },
+    {
+      "question_id": 142,
+      "question": "Is the risk of mortality higher, lower, or the same when comparing NSAIDs to placebo?",
+      "answer": "no difference",
+      "evidence_certainty": "moderate",
+      "fulltext_required": "yes",
+      "relevant_sources": [
+        "17111043"
+      ]
+    },
+    {
+      "question_id": 143,
+      "question": "Is the incidence of Alzheimer's disease higher, lower, or the same when comparing NSAIDs to placebo?",
+      "answer": "no difference",
+      "evidence_certainty": "moderate",
+      "fulltext_required": "yes",
+      "relevant_sources": [
+        "17111043"
+      ]
+    },
+    {
+      "question_id": 144,
+      "question": "Is the risk of stroke higher, lower, or the same when comparing NSAIDs to placebo?",
+      "answer": "no difference",
+      "evidence_certainty": "moderate",
+      "fulltext_required": "yes",
+      "relevant_sources": [
+        "17111043"
+      ]
+    },
+    {
+      "question_id": 145,
+      "question": "Is the incidence of Alzheimer's disease in patients with mild cognitive impairment higher, lower, or the same when comparing rofecoxib to placebo?",
+      "answer": "higher",
+      "evidence_certainty": "moderate",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "15742005"
+      ]
+    }
+  ],
+  "31032883": [
+    {
+      "question_id": 146,
+      "question": "Is the overall risk of developing breast cancer higher, lower, or the same when comparing tamoxifen to placebo?",
+      "answer": "lower",
+      "evidence_certainty": "moderate",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "16288118",
+        "25497694"
+      ]
+    },
+    {
+      "question_id": 147,
+      "question": "Is the risk of developing invasive breast cancer higher, lower, or the same when comparing tamoxifen to placebo?",
+      "answer": "lower",
+      "evidence_certainty": "moderate",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "16288118",
+        "25497694",
+        "17312305"
+      ]
+    },
+    {
+      "question_id": 148,
+      "question": "Is the overall risk of breast cancer higher, lower, or the same when comparing aromatase inhibitors (AIs) to placebo?",
+      "answer": "lower",
+      "evidence_certainty": "high",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "21639806",
+        "24333009"
+      ]
+    },
+    {
+      "question_id": 149,
+      "question": "Is the overall risk of developing breast cancer higher, lower, or the same when comparing raloxifene to tamoxifen?",
+      "answer": "higher",
+      "evidence_certainty": "moderate",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "20404000"
+      ]
+    },
+    {
+      "question_id": 150,
+      "question": "Is the risk of developing invasive breast cancer higher, lower, or the same when comparing raloxifene to tamoxifen?",
+      "answer": "higher",
+      "evidence_certainty": "moderate",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "20404000"
+      ]
+    }
+  ],
+  "34850380": [
+    {
+      "question_id": 151,
+      "question": "Is the likelihood of good functional outcome higher, lower, or the same when comparing endovascular thrombectomy to control?",
+      "answer": "higher",
+      "evidence_certainty": "high",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "29129157",
+        "29364767"
+      ]
+    },
+    {
+      "question_id": 152,
+      "question": "Is the risk of death at 90 days higher, lower, or the same when comparing endovascular thrombectomy to control?",
+      "answer": "no difference",
+      "evidence_certainty": "high",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "29129157",
+        "29364767"
+      ]
+    },
+    {
+      "question_id": 153,
+      "question": "Is the likelihood of good functional outcome higher, lower, or the same when comparing intravenous thrombolytic treatment to control?",
+      "answer": "higher",
+      "evidence_certainty": "high",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "30947642",
+        "31067369",
+        "21808985",
+        "32248771",
+        "29766770"
+      ]
+    },
+    {
+      "question_id": 154,
+      "question": "Is the risk of death at 90 days higher, lower, or the same when comparing intravenous thrombolytic treatment to control?",
+      "answer": "no difference",
+      "evidence_certainty": "high",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "30947642",
+        "31067369",
+        "21808985",
+        "32248771",
+        "29766770"
+      ]
+    }
+  ],
+  "28349529": [
+    {
+      "question_id": 155,
+      "question": "Is survival to hospital discharge higher, lower, or the same when comparing untrained bystander CPR with continuous chest compression to untrained bystander CPR with chest compression interrupted with pauses for rescue breathing?",
+      "answer": "higher",
+      "evidence_certainty": "high",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "10824072",
+        "20818863",
+        "20818864"
+      ]
+    },
+    {
+      "question_id": 156,
+      "question": "Is the likelihood of survival to hospital discharge higher, lower, or the same when comparing continuous chest compression CPR with asynchronous rescue breathing to interrupted chest compression plus rescue breathing?",
+      "answer": "lower",
+      "evidence_certainty": "moderate",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "26550795"
+      ]
+    },
+    {
+      "question_id": 157,
+      "question": "Is the likelihood of favorable neurological outcome higher, lower, or the same when comparing continuous chest compression CPR with asynchronous rescue breathing to interrupted chest compression plus rescue breathing?",
+      "answer": "no difference",
+      "evidence_certainty": "high",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "26550795"
+      ]
+    }
+  ],
+  "24809657": [
+    {
+      "question_id": 158,
+      "question": "Is pain relief higher, lower, or the same when comparing 120 mg etoricoxib to placebo?",
+      "answer": "higher",
+      "evidence_certainty": "high",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "15333415",
+        "21188849",
+        "15100590",
+        "15220011",
+        "15881486",
+        "16192529"
+      ]
+    }
+  ],
+  "28829911": [
+    {
+      "question_id": 159,
+      "question": "Is overall survival higher, lower, or the same when comparing chemoradiotherapy plus esophagectomy to chemoradiotherapy alone?",
+      "answer": "no difference",
+      "evidence_certainty": "high",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "17401004",
+        "15800321"
+      ]
+    },
+    {
+      "question_id": 160,
+      "question": "Is the risk of treatment\u2010related mortality higher, lower, or the same when comparing chemoradiotherapy plus esophagectomy to chemoradiotherapy alone?",
+      "answer": "higher",
+      "evidence_certainty": "low",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "17401004",
+        "15800321"
+      ]
+    },
+    {
+      "question_id": 161,
+      "question": "Is short-term quality of life higher, lower, or the same when comparing chemoradiotherapy plus esophagectomy to chemoradiotherapy alone?",
+      "answer": "lower",
+      "evidence_certainty": "very low",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "16524973"
+      ]
+    }
+  ],
+  "25739381": [
+    {
+      "question_id": 162,
+      "question": "Is neonatal mortality higher, lower, or the same when comparing community-led chlorhexidine skin cleansing to community-led usual skin care?",
+      "answer": "no difference",
+      "evidence_certainty": "high",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "17210728"
+      ]
+    },
+    {
+      "question_id": 163,
+      "question": "Is neonatal mortality higher, lower, or the same when comparing community-led chlorhexidine cord cleansing to community-led dry cord care?",
+      "answer": "lower",
+      "evidence_certainty": "high",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "22322124",
+        "16546539",
+        "22322126"
+      ]
+    },
+    {
+      "question_id": 164,
+      "question": "Is the risk of omphalitis/infections higher, lower, or the same when comparing community-led chlorhexidine cord cleansing to community-led dry cord care?",
+      "answer": "lower",
+      "evidence_certainty": "high",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "22322124",
+        "16546539",
+        "22322126"
+      ]
+    },
+    {
+      "question_id": 225,
+      "question": "Is the risk of omphalitis/infections higher, lower, or the same when comparing community-led chlorhexidine skin cleansing to community-led usual skin care?",
+      "answer": "insufficient data",
+      "evidence_certainty": "",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "17210728"
+      ]
+    }
+  ],
+  "29460275": [
+    {
+      "question_id": 165,
+      "question": "Is distance visual acuity higher, lower, or the same when comparing vision screening alone to no vision screening?",
+      "answer": "no difference",
+      "evidence_certainty": "high",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "18614568"
+      ]
+    },
+    {
+      "question_id": 166,
+      "question": "Is near visual acuity higher, lower, or the same when comparing vision screening alone to no vision screening?",
+      "answer": "no difference",
+      "evidence_certainty": "high",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "18614568"
+      ]
+    },
+    {
+      "question_id": 167,
+      "question": "Is visually-related quality of life higher, lower, or the same when comparing vision screening alone to no vision screening?",
+      "answer": "no difference",
+      "evidence_certainty": "high",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "18614568"
+      ]
+    },
+    {
+      "question_id": 168,
+      "question": "Is the risk of visual impairment higher, lower, or the same when comparing a detailed health assessment including measurement of visual acuity to a brief health assessment including one question about vision (standard care)?",
+      "answer": "no difference",
+      "evidence_certainty": "moderate",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "14593039"
+      ]
+    },
+    {
+      "question_id": 169,
+      "question": "Is visually-related quality of life higher, lower, or the same when comparing a detailed health assessment including measurement of visual acuity to a brief health assessment including one question about vision (standard care)?",
+      "answer": "no difference",
+      "evidence_certainty": "high",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "14593039"
+      ]
+    }
+  ],
+  "25375291": [
+    {
+      "question_id": 170,
+      "question": "Is the risk of job loss higher, lower, or the same when comparing non-pharmacological job loss prevention interventions to usual care?",
+      "answer": "uncertain effect",
+      "evidence_certainty": "very low",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "16208658",
+        "14613285"
+      ]
+    },
+    {
+      "question_id": 171,
+      "question": "Is intermediate term work functioning higher, lower, or the same when comparing non-pharmacological job loss prevention interventions to usual care?",
+      "answer": "higher",
+      "evidence_certainty": "very low",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "19877106"
+      ]
+    },
+    {
+      "question_id": 220,
+      "question": "Is the risk of adverse events higher, lower, or the same when comparing non-pharmacological job loss prevention interventions to usual care?",
+      "answer": "insufficient data",
+      "evidence_certainty": "",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "16208658",
+        "14613285",
+        "19877106"
+      ]
+    }
+  ],
+  "31425604": [
+    {
+      "question_id": 172,
+      "question": "Is time to establish full enteral feeds higher, lower, or the same when comparing monitoring of gastric residual volume and quality to only monitoring of gastric residual quality?",
+      "answer": "uncertain effect",
+      "evidence_certainty": "very low",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "29866595"
+      ]
+    },
+    {
+      "question_id": 173,
+      "question": "Is the risk of necrotizing enterocolitis higher, lower, or the same when comparing monitoring of gastric residual volume and quality to only monitoring of gastric residual quality?",
+      "answer": "uncertain effect",
+      "evidence_certainty": "very low",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "29866595"
+      ]
+    },
+    {
+      "question_id": 174,
+      "question": "Is time taken to establish full enteral feeds higher, lower, or the same when comparing routine monitoring of gastric residual to no monitoring of gastric residual?",
+      "answer": "higher",
+      "evidence_certainty": "low",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "25238118",
+        "25166623"
+      ]
+    },
+    {
+      "question_id": 175,
+      "question": "Is the number of total parenteral nutrition days higher, lower, or the same when comparing routine monitoring of gastric residual to no monitoring of gastric residual?",
+      "answer": "higher",
+      "evidence_certainty": "low",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "25238118",
+        "25166623"
+      ]
+    }
+  ],
+  "34046884": [
+    {
+      "question_id": 176,
+      "question": "Is the risk of recurrence higher, lower, or the same when comparing absorbable tacks to nonabsorbable tacks?",
+      "answer": "uncertain effect",
+      "evidence_certainty": "very low",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "29799075",
+        "26885113"
+      ]
+    },
+    {
+      "question_id": 177,
+      "question": "Is the risk of recurrence higher, lower, or the same when comparing nonabsorbable tacks to nonabsorbable sutures?",
+      "answer": "uncertain effect",
+      "evidence_certainty": "very low",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "20652715"
+      ]
+    },
+    {
+      "question_id": 178,
+      "question": "Is early postoperative pain higher, lower, or the same when comparing absorbable tacks to absorbable sutures?",
+      "answer": "uncertain effect",
+      "evidence_certainty": "very low",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "31236731"
+      ]
+    },
+    {
+      "question_id": 179,
+      "question": "Is the risk of recurrence higher, lower, or the same when comparing nonabsorbable tacks to fibrin sealant?",
+      "answer": "uncertain effect",
+      "evidence_certainty": "very low",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "29799075",
+        "23657861"
+      ]
+    }
+  ],
+  "30320433": [
+    {
+      "question_id": 180,
+      "question": "Is flexibility higher, lower, or the same when comparing exercise to usual care?",
+      "answer": "higher",
+      "evidence_certainty": "very low",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "17964881"
+      ]
+    },
+    {
+      "question_id": 181,
+      "question": "Is the number of falls higher, lower, or the same when comparing exercise to usual care?",
+      "answer": "no difference",
+      "evidence_certainty": "very low",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "19335674"
+      ]
+    },
+    {
+      "question_id": 182,
+      "question": "Is the rate of falls higher, lower, or the same when comparing exercise to usual care?",
+      "answer": "insufficient data",
+      "evidence_certainty": "",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "19335674"
+      ]
+    },
+    {
+      "question_id": 183,
+      "question": "Is the number of fallers higher, lower, or the same when comparing exercise to usual care?",
+      "answer": "insufficient data",
+      "evidence_certainty": "",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "19335674"
+      ]
+    },
+    {
+      "question_id": 184,
+      "question": "Is balance as measured by the backward walk test higher, lower, or the same when comparing exercise to usual care?",
+      "answer": "higher",
+      "evidence_certainty": "low",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "19949016",
+        "19335674"
+      ]
+    },
+    {
+      "question_id": 185,
+      "question": "Is fatigue higher, lower, or the same when comparing exercise to usual care?",
+      "answer": "lower",
+      "evidence_certainty": "very low",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "17964881",
+        "19949016"
+      ]
+    }
+  ],
+  "34661278": [
+    {
+      "question_id": 186,
+      "question": "Is the incidence of bronchopulmonary dysplasia (BPD) higher, lower, or the same when comparing prophylactic CPAP to very early CPAP?",
+      "answer": "uncertain effect",
+      "evidence_certainty": "very low",
+      "fulltext_required": "yes",
+      "relevant_sources": [
+        "23930249"
+      ]
+    },
+    {
+      "question_id": 187,
+      "question": "Is the risk of death higher, lower, or the same when comparing prophylactic CPAP to very early CPAP?",
+      "answer": "no difference",
+      "evidence_certainty": "very low",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "23930249"
+      ]
+    },
+    {
+      "question_id": 188,
+      "question": "Is the incidence of neurodevelopmental impairment higher, lower, or the same when comparing prophylactic CPAP to very early CPAP?",
+      "answer": "insufficient data",
+      "evidence_certainty": "",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "23930249"
+      ]
+    },
+    {
+      "question_id": 189,
+      "question": "Is the risk of pneumothorax higher, lower, or the same when comparing prophylactic CPAP to very early CPAP?",
+      "answer": "insufficient data",
+      "evidence_certainty": "",
+      "fulltext_required": "yes",
+      "relevant_sources": [
+        "23930249"
+      ]
+    },
+    {
+      "question_id": 190,
+      "question": "Is the risk of neurodevelopmental impairment higher, lower, or the same when comparing prophylactic or very early CPAP to supportive care?",
+      "answer": "insufficient data",
+      "evidence_certainty": "",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "15321956",
+        "22402568",
+        "24554040",
+        "3102211"
+      ]
+    },
+    {
+      "question_id": 191,
+      "question": "Is the risk of death higher, lower, or the same when comparing prophylactic or very early CPAP to supportive care?",
+      "answer": "no difference",
+      "evidence_certainty": "moderate",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "22402568",
+        "24554040",
+        "3102211"
+      ]
+    },
+    {
+      "question_id": 192,
+      "question": "Is the risk of failed treatment higher, lower, or the same when comparing prophylactic or very early CPAP to supportive care?",
+      "answer": "lower",
+      "evidence_certainty": "very low",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "15321956",
+        "22402568",
+        "24554040",
+        "3102211"
+      ]
+    },
+    {
+      "question_id": 193,
+      "question": "Is the risk of death or bronchopulmonary dysplasia (BPD) higher, lower, or the same when comparing prophylactic or very early CPAP to mechanical ventilation?",
+      "answer": "lower",
+      "evidence_certainty": "moderate",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "18272893",
+        "20472939",
+        "22025591"
+      ]
+    }
+  ],
+  "29969521": [
+    {
+      "question_id": 194,
+      "question": "Is the risk of wound infection in open fracture wounds higher, lower, or the same when comparing negative pressure wound therapy (NPWT) at 125 mmHg to standard care?",
+      "answer": "uncertain effect",
+      "evidence_certainty": "very low",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "29896626",
+        "19704269",
+        "27857499",
+        "27022347"
+      ]
+    },
+    {
+      "question_id": 195,
+      "question": "Is the risk of wound infection in non-fracture traumatic open wounds higher, lower, or the same when comparing negative pressure wound therapy (NPWT) at 125 mmHg to NWPT at 75 mmHg?",
+      "answer": "uncertain effect",
+      "evidence_certainty": "very low",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "26964825"
+      ]
+    },
+    {
+      "question_id": 196,
+      "question": "Is the risk of wound infection in non-fracture traumatic open wounds higher, lower, or the same when comparing negative pressure wound therapy (NPWT) at 75 mmHg to standard care?",
+      "answer": "uncertain effect",
+      "evidence_certainty": "very low",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "26964825"
+      ]
+    }
+  ],
+  "33126293": [
+    {
+      "question_id": 197,
+      "question": "Is the risk of mortality higher, lower, or the same when comparing 1g paracetamol IV to saline IV?",
+      "answer": "uncertain effect",
+      "evidence_certainty": "very low",
+      "fulltext_required": "yes",
+      "relevant_sources": [
+        "26678710"
+      ]
+    }
+  ],
+  "35514111": [
+    {
+      "question_id": 198,
+      "question": "Is the rate of any PCR\u2010positive SARS\u2010COV\u20102 infection higher, lower, or the same when comparing test\u2010based attendance to standard 10\u2010day self\u2010isolation?",
+      "answer": "uncertain effect",
+      "evidence_certainty": "very low",
+      "fulltext_required": "yes",
+      "relevant_sources": [
+        "34534517"
+      ]
+    },
+    {
+      "question_id": 199,
+      "question": "Is the rate of COVID\u2010related absenteeism higher, lower, or the same when comparing test\u2010based attendance to standard 10\u2010day self\u2010isolation?",
+      "answer": "no difference",
+      "evidence_certainty": "low",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "34534517"
+      ]
+    },
+    {
+      "question_id": 200,
+      "question": "Is the rate of symptomatic PCR\u2010positive SARS\u2010COV\u20102 infection higher, lower, or the same when comparing test\u2010based attendance to standard 10\u2010day self\u2010isolation?",
+      "answer": "uncertain effect",
+      "evidence_certainty": "very low",
+      "fulltext_required": "yes",
+      "relevant_sources": [
+        "34534517"
+      ]
+    },
+    {
+      "question_id": 201,
+      "question": "Is the quality of life higher, lower, or the same when comparing test\u2010based attendance to standard 10\u2010day self\u2010isolation?",
+      "answer": "insufficient data",
+      "evidence_certainty": "",
+      "fulltext_required": "yes",
+      "relevant_sources": [
+        "34534517"
+      ]
+    },
+    {
+      "question_id": 202,
+      "question": "Is SARS\u2010CoV\u20102\u2010related mortality higher, lower, or the same when comparing test\u2010based attendance to standard 10\u2010day self\u2010isolation?",
+      "answer": "insufficient data",
+      "evidence_certainty": "",
+      "fulltext_required": "yes",
+      "relevant_sources": [
+        "34534517"
+      ]
+    },
+    {
+      "question_id": 203,
+      "question": "Is the rate of hospitalization higher, lower, or the same when comparing test\u2010based attendance to standard 10\u2010day self\u2010isolation?",
+      "answer": "insufficient data",
+      "evidence_certainty": "",
+      "fulltext_required": "yes",
+      "relevant_sources": [
+        "34534517"
+      ]
+    }
+  ],
+  "32441330": [
+    {
+      "question_id": 204,
+      "question": "Is loneliness at 6 months higher, lower, or the same when comparing video calls to usual care?",
+      "answer": "uncertain effect",
+      "evidence_certainty": "very low",
+      "fulltext_required": "yes",
+      "relevant_sources": [
+        "31992217",
+        "22086660"
+      ]
+    },
+    {
+      "question_id": 205,
+      "question": "Is loneliness at 1 year higher, lower, or the same when comparing video calls to usual care?",
+      "answer": "uncertain effect",
+      "evidence_certainty": "very low",
+      "fulltext_required": "yes",
+      "relevant_sources": [
+        "22086660"
+      ]
+    },
+    {
+      "question_id": 206,
+      "question": "Is depression at 6 months higher, lower, or the same when comparing video calls to usual care?",
+      "answer": "uncertain effect",
+      "evidence_certainty": "very low",
+      "fulltext_required": "yes",
+      "relevant_sources": [
+        "31992217",
+        "22086660"
+      ]
+    },
+    {
+      "question_id": 207,
+      "question": "Is depression at 1 year higher, lower, or the same when comparing video calls to usual care?",
+      "answer": "uncertain effect",
+      "evidence_certainty": "very low",
+      "fulltext_required": "yes",
+      "relevant_sources": [
+        "22086660"
+      ]
+    },
+    {
+      "question_id": 208,
+      "question": "Is physical-role quality of life higher, lower, or the same when comparing video calls to usual care?",
+      "answer": "uncertain effect",
+      "evidence_certainty": "very low",
+      "fulltext_required": "yes",
+      "relevant_sources": [
+        "31992217"
+      ]
+    }
+  ],
+  "30977111": [
+    {
+      "question_id": 209,
+      "question": "Is anxiety higher, lower, or the same when comparing antidepressants to placebo?",
+      "answer": "uncertain effect",
+      "evidence_certainty": "low",
+      "fulltext_required": "yes",
+      "relevant_sources": [
+        "27664274",
+        "21936344",
+        "26600836"
+      ]
+    },
+    {
+      "question_id": 210,
+      "question": "Is depression higher, lower, or the same when comparing antidepressants to placebo?",
+      "answer": "uncertain effect",
+      "evidence_certainty": "low",
+      "fulltext_required": "yes",
+      "relevant_sources": [
+        "27664274",
+        "21936344",
+        "26600836"
+      ]
+    },
+    {
+      "question_id": 211,
+      "question": "Is the risk of adverse events higher, lower, or the same when comparing antidepressants to placebo?",
+      "answer": "uncertain effect",
+      "evidence_certainty": "low",
+      "fulltext_required": "yes",
+      "relevant_sources": [
+        "27664274"
+      ]
+    },
+    {
+      "question_id": 212,
+      "question": "Is maintenance of clinical remission higher, lower, or the same when comparing antidepressants to placebo?",
+      "answer": "uncertain effect",
+      "evidence_certainty": "low",
+      "fulltext_required": "yes",
+      "relevant_sources": [
+        "27664274"
+      ]
+    }
+  ],
+  "37594020": [
+    {
+      "question_id": 213,
+      "question": "Is pain relief at 48 hours higher, lower, or the same when comparing paracetamol to placebo?",
+      "answer": "higher",
+      "evidence_certainty": "low",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "8871138"
+      ]
+    },
+    {
+      "question_id": 214,
+      "question": "Is pain relief at 48 hours higher, lower, or the same when comparing NSAIDs to placebo?",
+      "answer": "higher",
+      "evidence_certainty": "low",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "8871138"
+      ]
+    }
+  ],
+  "30039850": [
+    {
+      "question_id": 215,
+      "question": "Is the risk of cryptococcal IRIS events higher, lower, or the same when comparing early ART initiation to delayed ART initiation?",
+      "answer": "uncertain effect",
+      "evidence_certainty": "very low",
+      "fulltext_required": "yes",
+      "relevant_sources": [
+        "24963568",
+        "23362285"
+      ]
+    },
+    {
+      "question_id": 216,
+      "question": "Is virological suppression at 6 months higher, lower, or the same when comparing early ART initiation to delayed ART initiation?",
+      "answer": "uncertain effect",
+      "evidence_certainty": "very low",
+      "fulltext_required": "yes",
+      "relevant_sources": [
+        "24963568"
+      ]
+    },
+    {
+      "question_id": 217,
+      "question": "Is all-cause mortality at 6-12 months higher, lower, or the same when comparing early ART initiation to delayed ART initiation?",
+      "answer": "higher",
+      "evidence_certainty": "low",
+      "fulltext_required": "yes",
+      "relevant_sources": [
+        "23362285",
+        "24963568",
+        "20415574",
+        "19440326"
+      ]
+    },
+    {
+      "question_id": 218,
+      "question": "Is the risk of cryptococcal meningitis relapse higher, lower, or the same when comparing early ART initiation to delayed ART initiation?",
+      "answer": "lower",
+      "evidence_certainty": "low",
+      "fulltext_required": "yes",
+      "relevant_sources": [
+        "24963568"
+      ]
+    }
+  ],
+  "28282491": [
+    {
+      "question_id": 243,
+      "question": "Is rheumatoid arthritis remission rate higher, lower, or the same when comparing tofacitinib monotherapy to placebo?",
+      "answer": "insufficient data",
+      "evidence_certainty": "",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "16162882",
+        "12115176",
+        "24972708",
+        "23294500"
+      ]
+    },
+    {
+      "question_id": 244,
+      "question": "Is radiographic progression higher, lower, or the same when comparing tofacitinib and MTX to MTX and placebo?",
+      "answer": "insufficient data",
+      "evidence_certainty": "",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "23294500"
+      ]
+    },
+    {
+      "question_id": 245,
+      "question": "Is radiographic progression higher, lower, or the same when comparing biologic + MTX to only MTX/other traditional DMARDs?",
+      "answer": "insufficient data",
+      "evidence_certainty": "",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "16947627",
+        "18625622",
+        "19560810"
+      ]
+    },
+    {
+      "question_id": 246,
+      "question": "Is patient function measured by HAQ higher, lower, or the same when comparing biologic monotherapy to placebo?",
+      "answer": "insufficient data",
+      "evidence_certainty": "",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "16162882",
+        "12115176",
+        "24972708"
+      ]
+    },
+    {
+      "question_id": 247,
+      "question": "Is radiographic progression higher, lower, or the same when comparing biologic monotherapy to placebo?",
+      "answer": "insufficient data",
+      "evidence_certainty": "",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "16162882",
+        "12115176",
+        "24972708"
+      ]
+    },
+    {
+      "question_id": 248,
+      "question": "Is cancer risk higher, lower, or the same when comparing biologic monotherapy to placebo?",
+      "answer": "insufficient data",
+      "evidence_certainty": "",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "16162882",
+        "12115176",
+        "24972708"
+      ]
+    },
+    {
+      "question_id": 283,
+      "question": "Is improvement in ACR50 higher, lower, or the same when comparing tofacitinib monotherapy to placebo?",
+      "answer": "insufficient data",
+      "evidence_certainty": "",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "16162882",
+        "12115176",
+        "24972708",
+        "23294500"
+      ]
+    }
+  ],
+  "27977844": [
+    {
+      "question_id": 249,
+      "question": "Is pain relief for children with acute otitis media at 48 hour higher, lower, or the same comparing paracetamol to placebo? ",
+      "answer": "lower",
+      "evidence_certainty": "very low",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "8871138"
+      ]
+    }
+  ],
+  "36107778": [
+    {
+      "question_id": 250,
+      "question": "Is visual acuity at 5 years higher, lower, or the same when comparing children with pseudophakia and aphakia?",
+      "answer": "no difference",
+      "evidence_certainty": "very low",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "29906430"
+      ]
+    }
+  ],
+  "33755197": [
+    {
+      "question_id": 251,
+      "question": "Is the mean intraocular pressure (IOP) higher, lower, or the same when comparing argon LPIp as a primary procedure with peripheral iridotomy to peripheral iridotomy alone?",
+      "answer": "no difference",
+      "evidence_certainty": "low",
+      "fulltext_required": "yes",
+      "relevant_sources": [
+        "21860572",
+        "20472226"
+      ]
+    }
+  ],
+  "38205823": [
+    {
+      "question_id": 252,
+      "question": "Is the effect on neuropathy symptoms measured by Total Symptom Score (TSS) after six months lower, higher, or the same when comparing Alpha-lipoic acid with placebo?",
+      "answer": "no difference",
+      "evidence_certainty": "low",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "10480774"
+      ]
+    }
+  ],
+  "34416013": [
+    {
+      "question_id": 253,
+      "question": "Is mortality in people living with HIV at eight weeks higher, lower, or the same when comparing the use of lipoarabinomannan assay (LAM) testing to routine tuberculosis diagnostic testing?",
+      "answer": "lower",
+      "evidence_certainty": "moderate",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "30032978",
+        "26970721"
+      ]
+    }
+  ],
+  "31805611": [
+    {
+      "question_id": 254,
+      "question": "Is the proportion of wounds which are infection-free for dog bites higher, lower, or the same when comparing primary closure to no closure?",
+      "answer": "uncertain effect",
+      "evidence_certainty": "",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "23916901",
+        "23902527"
+      ]
+    }
+  ],
+  "35377462": [
+    {
+      "question_id": 255,
+      "question": "Is the need for mechanical ventilation in children with acute bronchiolitis higher, lower, or the same when comparing continuous positive airway pressure (CPAP) to control?",
+      "answer": "lower",
+      "evidence_certainty": "low",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "28952459",
+        "22431446",
+        "17344251"
+      ]
+    }
+  ],
+  "37249304": [
+    {
+      "question_id": 256,
+      "question": "Is the rate of modified Rankin Scale (mRS) at three months higher, lower, or the same when comparing thrombo-aspiration to stent-retrieval thrombectomy?",
+      "answer": "no difference",
+      "evidence_certainty": "",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "28763550",
+        "30860055"
+      ]
+    }
+  ],
+  "25274134": [
+    {
+      "question_id": 257,
+      "question": "Is hospital mortality higher, lower, or the same when comparing the study group with omentoplasty to the control?",
+      "answer": "no difference",
+      "evidence_certainty": "",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "17062260",
+        "22648923"
+      ]
+    }
+  ],
+  "29149469": [
+    {
+      "question_id": 258,
+      "question": "Is postextubation stridor higher, lower, or the same when comparing cuffed to uncuffed endotracheal tubes (ETTs)?",
+      "answer": "no difference",
+      "evidence_certainty": "very low",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "19887533"
+      ]
+    }
+  ],
+  "31989588": [
+    {
+      "question_id": 259,
+      "question": "Is the overall survival higher, lower, or the same when comparing hormone replacement therapy (HRT) to control?",
+      "answer": "higher",
+      "evidence_certainty": "low",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "26417001",
+        "10491528",
+        "22740889"
+      ]
+    }
+  ],
+  "25352226": [
+    {
+      "question_id": 260,
+      "question": "Is the incidence of congenital syphilis higher, lower, or the same when comparing on-site screening to control? ",
+      "answer": "lower",
+      "evidence_certainty": "",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "19773681"
+      ]
+    }
+  ],
+  "28884476": [
+    {
+      "question_id": 261,
+      "question": "Is the risk of symptomatic UTI higher, lower, or the same when comparing bladder inoculation using E. coli to control?",
+      "answer": "uncertain effect",
+      "evidence_certainty": "very low",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "16231269",
+        "21683991",
+        "20483149"
+      ]
+    }
+  ],
+  "24519664": [
+    {
+      "question_id": 262,
+      "question": "Is urinary calcium higher, lower, or the same when comparing low salt, normal calcium diet with a broad diet?",
+      "answer": "lower",
+      "evidence_certainty": "",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "20042524"
+      ]
+    }
+  ],
+  "27813057": [
+    {
+      "question_id": 263,
+      "question": "Is the number of deaths higher, lower, or the same when comparing maintenance-fluid to restricted-fluid? ",
+      "answer": "no difference",
+      "evidence_certainty": "low",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "12070950"
+      ]
+    }
+  ],
+  "28432791": [
+    {
+      "question_id": 264,
+      "question": "Is initiation rate of contraceptive implants at the first postpartum check-up higher, lower, or the same when comparing the immediate insertion group to the delayed insertion group? ",
+      "answer": "higher",
+      "evidence_certainty": "moderate",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "7847530",
+        "21508750",
+        "27561981"
+      ]
+    }
+  ],
+  "26544672": [
+    {
+      "question_id": 265,
+      "question": "Is six-minute walk distance (6MWD) higher, lower, or the same when comparing following exercise training and control? ",
+      "answer": "higher",
+      "evidence_certainty": "",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "25407957",
+        "18245143"
+      ]
+    }
+  ],
+  "27726122": [
+    {
+      "question_id": 266,
+      "question": "Is functional status at 9 to 12 months higher, lower, or the same when comparing reablement and usual care? ",
+      "answer": "higher",
+      "evidence_certainty": "",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "23009672",
+        "26537789"
+      ]
+    }
+  ],
+  "27871122": [
+    {
+      "question_id": 267,
+      "question": "Is freedom from atrial arrhythmias higher, lower, or the same when comparing catheter ablation to anti-arrhythmic drugs? ",
+      "answer": "higher",
+      "evidence_certainty": "low",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "18775050",
+        "24135832",
+        "16214831"
+      ]
+    }
+  ],
+  "26305459": [
+    {
+      "question_id": 268,
+      "question": "Is points on disability scale mprovement higher, lower, or the same when comparing plasma exchange with sham exchange? ",
+      "answer": "higher",
+      "evidence_certainty": "",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "8813270"
+      ]
+    }
+  ],
+  "26068943": [
+    {
+      "question_id": 269,
+      "question": "Is the rate of caesarean delivery higher, lower, or the same when comparing Bishop score to transvaginal ultrasound (TVUS)?",
+      "answer": "no difference",
+      "evidence_certainty": "moderate",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "15660437",
+        "21484904"
+      ]
+    }
+  ],
+  "26058966": [
+    {
+      "question_id": 270,
+      "question": "Is birth weight higher, lower, or the same when comparing caffeinated instant coffee and decaffeinated instant coffee? ",
+      "answer": "no difference",
+      "evidence_certainty": "low",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "17259189"
+      ]
+    }
+  ],
+  "38235907": [
+    {
+      "question_id": 271,
+      "question": "Is all-cause mortality higher, lower, or the same when comparing the placement of transjugular intrahepatic portosystemic shunts (TIPS) placement with conventional treatment?",
+      "answer": "uncertain effect",
+      "evidence_certainty": "low",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "12454841",
+        "10841872"
+      ]
+    }
+  ],
+  "25965055": [
+    {
+      "question_id": 272,
+      "question": "Is visual acuity at 6 to 12 months higher, lower, or the same when comparing macular hole and vitrectomy?",
+      "answer": "higher",
+      "evidence_certainty": "moderate",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "14769600",
+        "9006420",
+        "8644802"
+      ]
+    }
+  ],
+  "27886368": [
+    {
+      "question_id": 273,
+      "question": "Is the number of antibiotics used by patients higher, lower, or the same when comparing the use of written information to usual care?",
+      "answer": "lower",
+      "evidence_certainty": "moderate",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "19640941"
+      ]
+    }
+  ],
+  "31868929": [
+    {
+      "question_id": 274,
+      "question": "Is primary patency rate higher, lower, or the same when comparing endovascular group and the surgery group?",
+      "answer": "no difference",
+      "evidence_certainty": "moderate",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "16102611"
+      ]
+    }
+  ],
+  "25051925": [
+    {
+      "question_id": 275,
+      "question": "Is visual acuity higher, lower, or the same when comparing part-time occlusion (with any necessary glasses) to glasses alone?",
+      "answer": "higher",
+      "evidence_certainty": "",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "16751033",
+        "15838439"
+      ]
+    }
+  ],
+  "37327075": [
+    {
+      "question_id": 276,
+      "question": "Is overall survival higher, lower, or the same when comparing Ppost-mastectomy radiotherapy (PMRT) to control?",
+      "answer": "higher",
+      "evidence_certainty": "moderate",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "17306393"
+      ]
+    }
+  ],
+  "25425010": [
+    {
+      "question_id": 277,
+      "question": "Is the enrollment of children into health insurance higher, lower, or the same when comparing people offered health insurance information to control?",
+      "answer": "higher",
+      "evidence_certainty": "moderate",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "16322168"
+      ]
+    }
+  ],
+  "25502626": [
+    {
+      "question_id": 278,
+      "question": "Is clinical pregancy rate higher, lower, or the same when comparing the group who underwent ovarian cyst aspiration to the conservatively managed group?",
+      "answer": "no difference",
+      "evidence_certainty": "low",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "2120087",
+        "16253965"
+      ]
+    }
+  ],
+  "31578708": [
+    {
+      "question_id": 279,
+      "question": "Is the incidence rate of Frey's syndrome higher, lower, or the same when comparing sternocleidomastoid muscle flap procedure to control?",
+      "answer": "no difference",
+      "evidence_certainty": "low",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "12464202",
+        "15871587"
+      ]
+    }
+  ],
+  "30259968": [
+    {
+      "question_id": 280,
+      "question": "Is measures of pain at any of the time points higher, lower, or the same when comparing  systemic antibiotics and placebo?",
+      "answer": "no difference",
+      "evidence_certainty": "very low",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "8734709",
+        "11491635"
+      ]
+    }
+  ],
+  "29998494": [
+    {
+      "question_id": 281,
+      "question": "Is cardiac iron assessment, as measured by heart T2* at 12 months higher, lower, or the same when comparing amlodipine to control?",
+      "answer": "no difference",
+      "evidence_certainty": "low",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "23830536",
+        "27412888"
+      ]
+    }
+  ],
+  "37387544": [
+    {
+      "question_id": 282,
+      "question": "Is the time to establish enteral feeds higher, lower, or the same when comparing re-feeding to discarding gastric residuals?",
+      "answer": "no difference",
+      "evidence_certainty": "low",
+      "fulltext_required": "no",
+      "relevant_sources": [
+        "25552280"
+      ]
+    }
+  ]
+}

@@ -214,7 +214,6 @@ class SummarizingClosedRAG(SimpleClosedRAG):
         model_type,
         prompt_buffer_size=1000,
         filter_evidence=False,
-        batch_evidence=True,
         **extra_llm_kwargs
     ):
         super().__init__(prompt_set, model_type, 
@@ -223,7 +222,6 @@ class SummarizingClosedRAG(SimpleClosedRAG):
         self.summarize_source_chain = QuerySummaryChainLLM(
             llm_client=self.llm.client,
             instruction_prompt=self.prompts['get_info'])
-        self.batch_evidence = batch_evidence
         self.filter_evidence = filter_evidence
 
 
@@ -289,10 +287,7 @@ class SummarizingClosedRAG(SimpleClosedRAG):
     ) -> dict:
         if self.logger is None:
             self.out_str = ""
-        if self.batch_evidence:
-            raise NotImplementedError
-        else:
-            article_summaries, article_metadata = self.summarize_evidence_sequential(question, articles)
+        article_summaries, article_metadata = self.summarize_evidence_sequential(question, articles)
         if self.filter_evidence:
             article_summaries, article_metadata = self._filter_summaries(article_summaries, article_metadata)
         answer:dict = self.answer_question(question, article_summaries, article_metadata)

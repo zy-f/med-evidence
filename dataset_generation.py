@@ -131,7 +131,7 @@ def convert_manual_spreadsheet(dataset_name):
     print('dataset setup written to', out_path)
 
 if __name__ == '__main__':
-    name = 'manual_284'
+    name = 'med-evidence'
     # convert_manual_spreadsheet(name)
     # make_manual_dataset(name, use_fulltext=False)
     make_manual_dataset_v2(name, use_fulltext=True)
