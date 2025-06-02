@@ -45,7 +45,7 @@ As an example, a simple evaluation of accuracy can be accomplished as follows:
 with open("run-med-evidence/___res/[config_name].jsonl", 'r') as fh:
     outputs = [json.loads(line) for line in fh]
 scores = []
-for o in outputs:
+for out in outputs:
     model_ans = out.get('parsed_answer')
     ans = model_ans.get('answer', "").lower().strip() if isinstance(model_ans, dict) else ""
     scores.append(out['gt_answer'].lower() == ans)
