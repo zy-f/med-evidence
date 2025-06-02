@@ -38,7 +38,7 @@ To evaluate a custom model, create a custom json config file like:
 ```
 Then, switch to the `run-med-evidence` directory and run `python run.py path/to/your/config.json`. Your outputs will appear in `run-med-evidence/___res/` as `[config_name].log` (for printed logged output) and `[config_name].jsonl` (for full outputs that can be evaluated and analyzed).
 
-Note that if you are using vLLM, you will need to specify `--server [vllm_host_address:port]` when executing `run.py`.
+Note that if you are using vLLM, you will need to specify `--server [vllm_host_address:port]` when executing `run.py`; if you use TogetherAI or OpenAI, you will need to provide your API key using the `TOGETHER_API_KEY` or `OPENAI_API_KEY` environment variables, respectively.
 
 As an example, a simple evaluation of accuracy can be accomplished as follows:
 ```python
