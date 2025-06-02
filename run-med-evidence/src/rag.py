@@ -25,11 +25,12 @@ class SimpleClosedRAG:
         prompt_set,
         model_type,
         prompt_buffer_size=1000,
+        max_input_token=4096,
         logger:logging.Logger=logging.getLogger(),
         **extra_llm_kwargs
     ):
         self.prompts = load_prompts(prompt_set, check_relevance=False)
-        provider, model_name = LLM_MODEL_MAP[model_type]
+        provider, model_name = LLM_MODEL_MAP[model_type] if isinstance(model_type, str) else model_type
         llm_config = dict(
             provider=provider,
             api_key=None,
@@ -38,7 +39,7 @@ class SimpleClosedRAG:
                 "temperature":0,
                 "timeout":None,
                 "max_retries":10,
-                "max_tokens":4096
+                "max_tokens":None
             },
             host_vllm_manually=True
         )
@@ -51,7 +52,7 @@ class SimpleClosedRAG:
             llm_client=self.llm.client,
             instruction_prompt=self.prompts['final_answer'])
 
-        self.max_input_token = KNOWN_MAX_TOKENS.get(self.llm.model, 4096)
+        self.max_input_token = KNOWN_MAX_TOKENS.get(self.llm.model, max_input_token)
         self.splitter = TextSplitter(max_num_tokens=self.max_input_token - prompt_buffer_size)
         self.logger = logger
         self.out_str = ""
@@ -214,10 +215,10 @@ class SummarizingClosedRAG(SimpleClosedRAG):
         model_type,
         prompt_buffer_size=1000,
         filter_evidence=False,
-        **extra_llm_kwargs
+        **kwargs
     ):
         super().__init__(prompt_set, model_type, 
-            prompt_buffer_size=prompt_buffer_size, **extra_llm_kwargs)
+            prompt_buffer_size=prompt_buffer_size, **kwargs)
         self.prompts = load_prompts(prompt_set, check_relevance=filter_evidence)
         self.summarize_source_chain = QuerySummaryChainLLM(
             llm_client=self.llm.client,
