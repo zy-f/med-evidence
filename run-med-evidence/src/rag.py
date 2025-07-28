@@ -2,6 +2,7 @@ import os
 import json
 import re
 import logging
+import random
 
 from tqdm import tqdm
 from langchain_core.globals import set_verbose, set_debug
@@ -26,10 +27,12 @@ class SimpleClosedRAG:
         model_type,
         prompt_buffer_size=1000,
         max_input_token=4096,
+        summary_shuffle_seed=None,
         logger:logging.Logger=logging.getLogger(),
         **extra_llm_kwargs
     ):
         self.prompts = load_prompts(prompt_set, check_relevance=False)
+        self.randomizer = None if summary_shuffle_seed is None else random.Random(summary_shuffle_seed)
         provider, model_name = LLM_MODEL_MAP[model_type] if isinstance(model_type, str) else model_type
         llm_config = dict(
             provider=provider,
@@ -104,6 +107,8 @@ class SimpleClosedRAG:
                 date = "No date provided"
             article = f"----\n\nArticle ID {article_id}:\nTITLE: {title}\nPublished Date: {date}\n\nRelevant Information:\n{summary}\n\n----"
             formatted_summaries.append(article)
+        if self.randomizer is not None:
+            self.randomizer.shuffle(formatted_summaries)
         return formatted_summaries
 
 
